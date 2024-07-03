@@ -1,17 +1,19 @@
 import pandas as pd
+import os
 from flask import Flask, request, jsonify
 import joblib
 import nltk
 import re
 from nltk.tokenize import word_tokenize
-from nltk.corpus import stopwords
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 # Load trained model and vectorizer
 model = joblib.load('sentiment.pkl')
 vectorizer = joblib.load('tfidf_vectorizer.pkl')
+
 nltk.download('stopwords')
+from nltk.corpus import stopwords
 
 # Initialize Flask app
 app = Flask(__name__)
@@ -65,4 +67,5 @@ def predict_sentiment():
     return jsonify({'sentiment': prediction[0]})
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 8000))
+    app.run(host="0.0.0.0", port=port)
