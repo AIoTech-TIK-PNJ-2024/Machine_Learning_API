@@ -1,4 +1,5 @@
-pandas==1.4.4
+pandas==2.2.2
+numpy==1.26.4
 scikit-learn==1.5.0
 Flask==3.0.3
 nltk==3.8.1
