@@ -11,6 +11,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 # Load trained model and vectorizer
 model = joblib.load('sentiment.pkl')
 vectorizer = joblib.load('tfidf_vectorizer.pkl')
+nltk.download('stopwords')
 
 # Initialize Flask app
 app = Flask(__name__)
