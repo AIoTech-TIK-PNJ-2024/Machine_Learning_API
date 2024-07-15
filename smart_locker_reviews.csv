@@ -10,16 +10,8 @@ Smart locker ini sangat membantu dalam menjaga keamanan barang-barang saya.;Posi
 Pengalaman menggunakan smart locker sangat nyaman dan aman.;Positive
 "Saya sering mengalami masalah dengan smart locker ini, sangat mengecewakan.";Negative
 Smart locker ini sering mengalami gangguan teknis.;Negative
-Saya sangat tidak puas dengan layanan smart locker ini.;Negative
-Desain smart locker ini sangat buruk dan tidak menarik.;Negative
-Sistem verifikasinya sering lama, bikin bete.;Negative
-RFID-nya nggak akurat, bikin susah.;Negative
-Proses verifikasinya lama banget, bikin kesel.;Negative
-Pintu loker nggak mau kebuka, ribet deh.;Negative
-Pengenalan wajahnya suka error, nggak nyaman.;Negative
-RFID sering nggak kebaca, susah banget.;Negative
-Sistem verifikasinya lambat, males nunggu.;Negative
-Loker ini sering macet, bikin repot.;Negative
+Loker sering membutuhkan restart.;Neutral
+RFID memerlukan posisi yang tepat.;Neutral
 Pengenalan wajahnya sering nggak akurat, nggak praktis.;Negative
 RFID suka nggak respon, kesel banget.;Negative
 Sistemnya lambat, bikin bete.;Negative
@@ -29,13 +21,26 @@ Sistem verifikasinya sering lama, bikin kesel.;Negative
 Proses verifikasinya lama banget, ribet deh.;Negative
 Pintu loker nggak mau kebuka, ngeselin.;Negative
 Saya merasa smart locker ini lumayan baik.;Neutral
-"Smart locker ini biasa saja, tidak terlalu bagus tapi juga tidak buruk.";Neutral
-Saya merasa sangat aman menggunakan smart locker ini.;Positive
-"Kinerja smart locker cukup baik, tapi masih perlu perbaikan.";Neutral
-"Pengalaman menggunakan smart locker ini cukup memuaskan, walau ada sedikit kendala.";Neutral
-"Smart locker ini cukup membantu, meskipun kadang-kadang mengalami kendala teknis.";Neutral
+RFID-nya nggak akurat, bikin susah.;Negative
+RFID sering nggak kebaca, susah banget.;Negative
+Sistem verifikasinya lambat, males nunggu.;Negative
+Pengenalan wajahnya suka error, nggak nyaman.;Negative
+RFID membutuhkan beberapa kali percobaan.;Neutral
+Pengenalan wajah tidak selalu langsung berhasil.;Neutral
+Sering banget face recognition-nya ngaco;Negative
 Smart locker ini sangat inovatif dan membantu dalam kehidupan sehari-hari.;Positive
 Layanan smart locker sangat memuaskan dan mudah digunakan.;Positive
+RFID-nya suka enggak kebaca;Negative
+Loker ini kurang bagus;Negative
+Sistem kadang butuh reset setelah beberapa kali penggunaan.;Neutral
+RFID sering memerlukan penyesuaian.;Neutral
+Proses pengenalan wajah bisa lebih singkat.;Neutral
+Loker ini sering macet, bikin repot.;Negative
+Proses verifikasi wajah bisa sedikit lebih cepat.;Neutral
+Terkadang ada jeda sebelum loker membuka.;Neutral
+Proses verifikasinya lama banget, bikin kesel.;Negative
+Pintu loker nggak mau kebuka, ribet deh.;Negative
+"Smart locker ini cukup membantu, meskipun kadang-kadang mengalami kendala teknis.";Neutral
 "Kualitas smart locker ini cukup memadai, meski tidak sempurna.";Neutral
 Smart locker ini sangat efisien dalam penggunaan waktu.;Positive
 "Pengalaman menggunakan smart locker ini sangat mengecewakan, sering bermasalah.";Negative
@@ -56,10 +61,6 @@ Smart locker ini sangat memudahkan dalam penyimpanan barang.;Positive
 Kualitas smart locker ini sangat mengecewakan.;Negative
 "Fitur smart locker cukup baik, namun masih bisa ditingkatkan.";Neutral
 "Penggunaan smart locker sangat praktis dan efisien, saya sangat merekomendasikannya.";Positive
-Saya merasa penggunaan smart locker ini cukup nyaman.;Neutral
-Pengenalan wajahnya suka salah, bikin repot.;Negative
-Sistem verifikasinya sering lama, ribet banget.;Negative
-RFID-nya nggak akurat, bikin repot.;Negative
 Pintu loker nggak mau kebuka, kesel banget.;Negative
 Pengenalan wajahnya suka error, ribet banget.;Negative
 RFID sering nggak kebaca, bikin kesel.;Negative
@@ -71,6 +72,13 @@ Sistem wajahnya oke, tapi bisa lebih cepat.;Neutral
 RFID-nya kadang nggak langsung kebaca.;Neutral
 Verifikasi wajahnya lumayan lah, tapi suka ada delay.;Neutral
 Loker ini cukup praktis, meski kadang macet.;Neutral
+"Smart locker ini biasa saja, tidak terlalu bagus tapi juga tidak buruk.";Neutral
+Saya merasa sangat aman menggunakan smart locker ini.;Positive
+"Kinerja smart locker cukup baik, tapi masih perlu perbaikan.";Neutral
+"Pengalaman menggunakan smart locker ini cukup memuaskan, walau ada sedikit kendala.";Neutral
+Saya sangat tidak puas dengan layanan smart locker ini.;Negative
+Desain smart locker ini sangat buruk dan tidak menarik.;Negative
+Sistem verifikasinya sering lama, bikin bete.;Negative
 "Penggunaan smart locker ini terkadang lancar, terkadang tidak.";Neutral
 Kualitas smart locker sangat baik dan sesuai dengan harganya.;Positive
 "Penggunaan smart locker ini biasa saja, tidak ada yang istimewa.";Neutral
@@ -95,11 +103,34 @@ Harga smart locker dengan face recognition terlalu mahal untuk kualitas yang dib
 "Smart locker dengan face recognition ini cukup membantu, meskipun kadang-kadang mengalami kendala teknis.";Neutral
 "Fitur smart locker dengan face recognition cukup baik, namun masih bisa ditingkatkan.";Neutral
 Pengalaman menggunakan smart locker dengan face recognition sangat nyaman dan aman.;Positive
+"Fitur face recognition-nya keren, puas banget!";Positive
+"Suka banget sama smart locker ini, aman dan praktis.";Positive
+"Smart locker ini sering bermasalah, face recognition-nya nggak akurat.";Negative
+"Face recognition-nya jalan lancar, sangat memudahkan.";Positive
+"Pengalaman buruk, face recognition di smart locker ini sering gagal.";Negative
+"Kadang face recognition-nya berfungsi baik, kadang nggak.";Neutral
+"Lumayan lah, face recognition-nya cukup membantu.";Neutral
+Face recognition-nya suka lemot;Negative
+RFID-nya sering enggak respon;Negative
+Loker ini enggak efisien;Negative
+Teknologinya sering enggak jalan;Negative
+"Harga mahal tapi face recognition-nya jelek, nggak puas.";Negative
+RFID-nya cukup responsif, tapi kadang ribet;Neutral
+Sistemnya cukup simpel, tapi ada beberapa kendala;Neutral
+Face recognition-nya lumayan cepat, tapi ada beberapa bug;Neutral
 Smart locker dengan face recognition ini sangat cepat dalam proses penyimpanan dan pengambilan barang.;Positive
+Saya merasa penggunaan smart locker ini cukup nyaman.;Neutral
+Pengenalan wajahnya suka salah, bikin repot.;Negative
+Sistem verifikasinya sering lama, ribet banget.;Negative
+RFID-nya nggak akurat, bikin repot.;Negative
 Fitur smart locker dengan face recognition sangat lengkap dan canggih.;Positive
 "Pengalaman menggunakan smart locker dengan face recognition ini cukup memuaskan, walau ada sedikit kendala.";Neutral
 Smart locker dengan face recognition ini sangat inovatif dan membantu dalam kehidupan sehari-hari.;Positive
 Saya sangat tidak puas dengan layanan smart locker dengan face recognition ini.;Negative
+"Sering gagal, face recognition di smart locker ini jelek banget.";Negative
+"Face recognition di smart locker ini nggak bagus, sering gagal.";Negative
+Face recognition-nya cukup akurat, tapi ada kalanya lambat;Neutral
+Lokernya enggak buruk, tapi kadang ngelag;Neutral
 "Saya sering mengalami masalah dengan smart locker dengan face recognition ini, sangat mengecewakan.";Negative
 "Keamanan smart locker dengan face recognition ini sangat tinggi, saya merasa barang-barang saya aman.";Positive
 "Pengalaman menggunakan smart locker dengan face recognition ini sangat mengecewakan, sering bermasalah.";Negative
@@ -111,14 +142,46 @@ Smart locker dengan face recognition ini sering tidak bisa diakses saat dibutuhk
 Saya merasa sangat aman menggunakan smart locker dengan face recognition ini.;Positive
 "Kualitas smart locker dengan face recognition ini sangat buruk, sering rusak dan tidak bisa digunakan.";Negative
 Locker ini sangat berguna untuk menyimpan barang.;Positive
+Sistem verifikasinya lambat, bikin bete.;Negative
+Loker ini sering macet, nggak praktis.;Negative
+Sistemnya lambat, kesel banget.;Negative
+Face recognition-nya lumayan akurat, tapi ada kalanya gagal.;Neutral
+RFID membantu, tapi kadang tidak terbaca.;Neutral
 Kadang RFID tidak terbaca dengan baik.;Negative
+Loker ini nggak reliable, sering error.;Negative
+Pengenalan wajahnya suka error, bikin repot.;Negative
+RFID sering nggak kebaca, males.;Negative
+Face recognition kadang-kadang tidak bekerja.;Neutral
+RFID sering bekerja, tapi kadang gagal terbaca.;Neutral
 Teknologi face recognition sangat akurat.;Positive
 Face recognition kadang tidak berfungsi dengan baik.;Negative
 Penggunaan locker ini sangat memudahkan saya.;Positive
-Locker ini sangat aman dan mudah digunakan.;Positive
-Penggunaan RFID sangat efisien dan cepat.;Positive
+Face recognition-nya sering enggak akurat;Negative
+oker ini praktis, tapi kadang susah dibuka.;Neutral
+RFID-nya suka enggak kebaca, nyusahin banget;Negative
+Sistemnya lambat banget, enggak efisien;Negative
+Teknologi ini bagus, tapi kadang membingungkan.;Neutral
+Sistemnya sering error;Negative
+Face recognition-nya sering ngadat;Negative
+RFID-nya suka gagal;Negative
 Saya tidak yakin dengan kehandalan face recognition.;Neutral
 Kadang face recognition tidak berfungsi dengan baik.;Negative
+Face recognition-nya sering fail;Negative
+RFID-nya lambat banget;Negative
+RFID sering bermasalah;Negative
+Locker ini sangat aman dan mudah digunakan.;Positive
+Penggunaan RFID sangat efisien dan cepat.;Positive
+Face recognition-nya ribet;Negative
+RFID-nya cukup bagus, tapi kadang ngelag;Neutral
+Sistemnya cukup user-friendly, tapi ada beberapa kendala;Neutral
+RFID-nya cukup responsif, tapi kadang error;Neutral
+Loker ini enggak bisa diandelin;Negative
+Sistemnya sering crash;Negative
+Sistemnya cukup efisien, tapi kadang ngestuck;Neutral
+Face recognition-nya cukup akurat, tapi kadang lambat;Neutral
+Pengenalan wajahnya sering nggak akurat, bikin ribet.;Negative
+Loker ini banyak masalahnya, nggak reliable.;Negative
+RFID sering ngaco;Negative
 Akses menggunakan RFID sangat mudah dan cepat.;Positive
 Teknologi face recognition sangat membantu akses ke locker.;Positive
 Locker ini sangat efisien dan mudah digunakan.;Positive
@@ -127,6 +190,10 @@ Smart locker dengan face recognition ini sangat efisien dalam penggunaan waktu.;
 Saya merasa penggunaan smart locker dengan face recognition ini cukup nyaman.;Neutral
 Smart locker dengan face recognition ini tidak layak untuk digunakan.;Negative
 Kualitas smart locker dengan face recognition sangat baik dan sesuai dengan harganya.;Positive
+Pengenalan wajahnya sering nggak akurat, jadi repot.;Negative
+RFID suka nggak respon, capek deh.;Negative
+"Pengalaman pake smart locker ini cukup baik, face recognition-nya kadang error.";Neutral
+"Smart locker ini biasa aja, face recognition-nya oke.";Neutral
 "Kualitas smart locker dengan face recognition ini cukup memadai, meski tidak sempurna.";Neutral
 Sangat berguna untuk menyimpan barang-barang berharga dengan face recognition.;Positive
 Smart locker dengan face recognition ini sangat membantu dalam menjaga keamanan barang-barang saya.;Positive
@@ -136,51 +203,26 @@ Smart locker dengan face recognition ini sangat tidak praktis dan sulit digunaka
 "Smart locker ini biasa aja, face recognition-nya lumayan.";Neutral
 "Susah banget pake face recognition-nya, sering gagal.";Negative
 Pengenalan wajahnya cukup baik, tapi lambat.;Neutral
-Locker ini lumayan, meski tidak sempurna.;Neutral
-Lumayan, meski ada kendala kecil.;Neutral
-Pintu loker nggak mau kebuka, ribet banget!;Negative
-Sistem wajahnya suka error, bikin kesel deh.;Negative
-RFID-nya sering nggak kebaca, susah banget.;Negative
-Proses verifikasinya lama banget, males nunggu.;Negative
+RFID-nya sering nggak respon, jadi ribet.;Negative
+Pengenalan wajahnya suka salah, nggak praktis.;Negative
+"Kualitas face recognition di smart locker ini kurang, sering nggak berfungsi.";Negative
 Loker ini sering macet, nggak praktis sama sekali.;Negative
-Pengenalan wajahnya sering nggak akurat, jadi repot.;Negative
-RFID suka nggak respon, capek deh.;Negative
+"Ini locker modern banget, aman pake face recognition.";Positive
+"Pake face recognition, smart locker ini jadi makin aman.";Positive
+Proses verifikasinya lama banget, males nunggu.;Negative
+"Secara keseluruhan oke, meski face recognition-nya bisa lebih baik.";Neutral
+"Smart locker ini cocok buat yang suka praktis, face recognition-nya keren.";Positive
+"Locker ini pas banget buat jaga barang, face recognition-nya mantap.";Positive
 Susah banget bukanya, padahal udah sesuai instruksi.;Negative
 Loker ini banyak masalahnya, nggak recommended.;Negative
 Sistemnya lambat, bikin kesel.;Negative
 Pintu loker sering macet, ngeselin banget.;Negative
-RFID-nya sering nggak respon, jadi ribet.;Negative
-Pengenalan wajahnya suka salah, nggak praktis.;Negative
-"Kualitas face recognition di smart locker ini kurang, sering nggak berfungsi.";Negative
-"Ini locker modern banget, aman pake face recognition.";Positive
-"Pake face recognition, smart locker ini jadi makin aman.";Positive
-"Pengalaman pake smart locker ini cukup baik, face recognition-nya kadang error.";Neutral
-"Smart locker ini biasa aja, face recognition-nya oke.";Neutral
-"Secara keseluruhan oke, meski face recognition-nya bisa lebih baik.";Neutral
-"Smart locker ini cocok buat yang suka praktis, face recognition-nya keren.";Positive
-"Locker ini pas banget buat jaga barang, face recognition-nya mantap.";Positive
 "Face recognition-nya sering error, kecewa banget.";Negative
 "Smart locker ini kurang bagus, face recognition-nya sering bermasalah.";Negative
-"Fitur face recognition-nya keren, puas banget!";Positive
-"Suka banget sama smart locker ini, aman dan praktis.";Positive
-"Smart locker ini sering bermasalah, face recognition-nya nggak akurat.";Negative
-"Face recognition-nya jalan lancar, sangat memudahkan.";Positive
-"Pengalaman buruk, face recognition di smart locker ini sering gagal.";Negative
-"Kadang face recognition-nya berfungsi baik, kadang nggak.";Neutral
-"Lumayan lah, face recognition-nya cukup membantu.";Neutral
-"Harga mahal tapi face recognition-nya jelek, nggak puas.";Negative
-"Sering gagal, face recognition di smart locker ini jelek banget.";Negative
-"Face recognition di smart locker ini nggak bagus, sering gagal.";Negative
 "Smart locker ini bener-bener keren, fiturnya face recognition juga canggih!";Positive
 "Face recognition-nya standar, nggak ada yang spesial.";Neutral
 Barang jadi lebih aman dengan face recognition di smart locker ini.;Positive
 Desainnya menarik dan teknologi face recognition-nya bagus.;Positive
-"Nggak terlalu istimewa, tapi face recognition-nya cukup membantu.";Neutral
-"Jelek banget, smart locker ini nggak bisa diandalkan.";Negative
-Smart locker ini kurang baik;Negative
-Smart locker ini sangat baik;Positive
-Smart locker ini baik;Positive
-Smart locker ini sangat membantu di perpustakaan.;Positive
 RFID sering kali butuh waktu lama untuk mengenali kartu;Neutral
 Sistem ini cukup praktis dan aman menggunakan teknologi rfid.;Positive
 "Pengalaman menggunakan smart locker ini tidak begitu menyenangkan; sering bermasalah.";Negative
@@ -207,18 +249,342 @@ Face recognition sering tidak mendeteksi wajah saya dengan baik.;Negative
 Penggunaan RFID sangat membantu dalam akses locker.;Positive
 Face recognition sering gagal mendeteksi wajah saat kondisi cahaya redup.;Negative
 Smart locker ini memberikan solusi bagus untuk penyimpanan di perpustakaan.;Positive
+Loker ini sering bikin kesel;Negative
+RFID bekerja tapi membutuhkan waktu yang tepat.;Neutral
+Face recognition-nya enggak akurat;Negative
 Sering harus menunggu lama karena rfid nya error.;Negative
 Keamanan tambahan yang diberikan smart locker sangat membantu.;Positive
+Pengenalan wajah kadang tidak langsung berhasil.;Neutral
+Sistemnya sering mengalami masalah teknis pada sistem.;Negative
+Saya merasa nyaman menggunakan smart locker ini.;Positive
 "Pengalaman kurang baik; rfid scannernya sering gagal.";Negative
 "Konsep bagus; tapi implementasi perlu diperbaiki.";Neutral
 Puas dengan keamanan yang diberikan smart locker.;Positive
 rfid tidak selalu akurat dalam mengenali kartu.;Negative
 Smart locker ini sangat berguna dan mudah digunakan.;Positive
-Sistemnya sering mengalami masalah teknis pada sistem.;Negative
-Saya merasa nyaman menggunakan smart locker ini.;Positive
+RFID tidak selalu dapat membaca kartu dengan cepat.;Neutral
+Terkadang harus mencoba beberapa kali sebelum loker terbuka.;Neutral
+Sistem pengenalan wajah kadang mengalami gangguan.;Neutral
 rfid sering gagal saat digunakan.;Negative
 Sistem smart locker membantu di perpustakaan.;Positive
 Kadang-kadang rfid butuh waktu lama.;Neutral
+Pengenalan wajah terkadang memerlukan beberapa percobaan.;Neutral
+Sistem berfungsi baik, tetapi kadang ada jeda.;Neutral
+RFID tidak selalu langsung bekerja.;Neutral
+Verifikasi wajah memakan waktu lebih lama dari yang diharapkan.;Neutral
+Sistem pengenalan wajah bisa lebih cepat.;Neutral
+Sering banget error, jadi kesel;Negative
+"Desain smart locker ini sangat user-friendly dan mudah digunakan.";Positive
+Desain smart locker ini sangat user-friendly dan mudah digunakan.;Positive
+Saya sangat senang dengan kemudahan menggunakan smart locker ini.;Positive
+Lokernya gampang rusak;Negative
+RFID bekerja tapi terkadang tidak responsif.;Neutral
+Terkadang perlu beberapa kali percobaan sebelum berhasil.;Neutral
+Face recognition-nya lambat, enggak praktis;Negative
+RFID sering gagal, jadi ribet;Negative
+Sistemnya bikin pusing, sering bermasalah;Negative
+Loker sering butuh reset ulang.;Neutral
+Sistem pengenalan wajah kadang lambat.;Neutral
+RFID memerlukan penyesuaian.;Neutral
+"Saya sering mengalami masalah teknis dengan smart locker ini.";Negative
+"Smart locker ini memberikan solusi praktis untuk penyimpanan.";Positive
+"Face recognition di smart locker ini cukup baik.";Neutral
+"Pengalaman menggunakan smart locker ini sangat mengecewakan.";Negative
+"Smart locker ini sangat praktis dan efisien.";Positive
+"Saya merasa tidak puas dengan layanan smart locker ini.";Negative
+"Smart locker ini sangat membantu dalam kehidupan sehari-hari.";Positive
+"Face recognition di smart locker ini sering tidak berfungsi dengan baik.";Negative
+"Saya merasa puas dengan kinerja smart locker ini.";Positive
+Proses pengenalan wajah bisa lebih cepat.;Neutral
+RFID sering tidak responsif.;Neutral
+Verifikasi wajah memerlukan waktu lebih lama dari yang diharapkan.;Neutral
+Sistem pengenalan wajah bisa lebih akurat.;Neutral
+RFID-nya sering nggak respon, nggak nyaman.;Negative
+Pengenalan wajahnya suka salah, bikin kesel.;Negative
+Loker ini nggak reliable, sering macet.;Negative
+Face recognition-nya super responsif, mantap;Positive
+RFID-nya top, cepat dan akurat;Positive
+Sistem berfungsi baik, tetapi ada penundaan.;Neutral
+Face recognition kadang-kadang tidak responsif.;Neutral
+Pintu loker sering macet, ribet banget.;Negative
+Lokernya stylish dan modern, suka;Positive
+Sistemnya keren, gampang banget;Positive
+Sistem verifikasinya sering lama, bikin repot.;Negative
+Proses verifikasi wajah memakan waktu lebih lama.;Neutral
+Pengenalan wajah kadang-kadang tidak langsung berhasil.;Neutral
+Verifikasi wajah bisa lebih cepat.;Neutral
+Lokernya enggak lambat buat buka;Positive
+Lokernya enggak ngelag;Positive
+RFID-nya nggak akurat, bikin ribet.;Negative
+Proses verifikasinya lama banget, bikin bete.;Negative
+Pintu loker nggak mau kebuka, ngeselin banget.;Negative
+Pengenalan wajahnya suka error, ribet deh.;Negative
+Verifikasi wajah memerlukan waktu lebih lama.;Neutral
+Loker sering butuh restart.;Neutral
+Proses pemindaian RFID tidak selalu langsung berhasil.;Neutral
+Pengenalan wajah sering tidak berfungsi.;Negative
+Sistem sering tidak mengenali kartu RFID.;Negative
+Verifikasi wajah memerlukan waktu yang lebih lama dari yang diharapkan.;Neutral
+Sistem pengenalan wajah bisa lebih cepat dan akurat.;Neutral
+Pintu loker sering tidak terbuka.;Negative
+Proses verifikasi wajah sangat lambat.;Negative
+Lokernya oke sih, tapi kadang agak ribet;Neutral
+Lokernya enggak masalah;Positive
+Lokernya enggak bikin pusing;Positive
+Loker sering membutuhkan restart setelah beberapa kali penggunaan.;Neutral
+RFID sering memerlukan beberapa kali percobaan.;Neutral
+Pintu loker tidak bisa terbuka.;Negative
+Loker tidak merespons ketika menggunakan kartu RFID.;Negative
+Face recognition-nya lumayan, tapi ada kalanya gagal deteksi;Neutral
+RFID-nya sering kebaca, tapi kadang miss juga;Neutral
+Kartu RFID tidak terbaca.;Negative
+RFID sering tidak berfungsi.;Negative
+Loker tidak terbuka saat menggunakan RFID.;Negative
+Lokernya stylish dan modern;Positive
+Sistemnya cukup baik, tapi ada beberapa bug kecil;Neutral
+Face recognition-nya kadang cepat, kadang lambat;Neutral
+Locker ini lumayan, meski tidak sempurna.;Neutral
+Lumayan, meski ada kendala kecil.;Neutral
+Pintu loker nggak mau kebuka, ribet banget!;Negative
+Sistem wajahnya suka error, bikin kesel deh.;Negative
+RFID-nya sering nggak kebaca, susah banget.;Negative
+RFID-nya responsif, cepat dan akurat;Positive
+Sistemnya keren, puas pake;Positive
+Face recognition-nya cepat banget, enggak ribet;Positive
+Locker ini lumayan, meskipun ada masalah kecil.;Neutral
+Loker ini ribet dipake;Negative
+Face recognition-nya cepat banget, suka deh;Positive
+RFID-nya mantap, cepat dan akurat;Positive
+Sistemnya top, simpel dan efisien;Positive
+Pengenalan wajah sering gagal mengenali.;Negative
+Sistem tidak merespons kartu RFID.;Negative
+Proses verifikasinya oke, tapi lambat.;Neutral
+Lumayan, meski kadang lambat.;Neutral
+RFID-nya cukup baik, tapi sering memerlukan beberapa kali percobaan.;Neutral
+Lokernya nyaman dipake, recommended;Positive
+Lokernya modern dan praktis banget;Positive
+Sistem pengenalan wajahnya cukup baik, tapi lambat.;Neutral
+Pintu loker sering tidak terbuka dengan RFID.;Negative
+Kartu RFID tidak selalu terbaca.;Negative
+Sistem pengenalan wajah sering tidak akurat.;Negative
+RFID sering memerlukan beberapa kali percobaan.;Negative
+Face recognition-nya suka eror;Negative
+RFID-nya lambat respon;Negative
+Kadang harus dicoba beberapa kali untuk berhasil.;Neutral
+RFID-nya cukup baik, tapi tidak selalu responsif.;Neutral
+RFID-nya suka ngadat;Negative
+Sistemnya enggak stabil;Negative
+Sistemnya top, enggak ribet;Positive
+Sistemnya bikin kesel;Negative
+Sistem pengenalan wajahnya kadang lambat.;Neutral
+Lumayan, meskipun ada sedikit kendala.;Neutral
+RFID sering enggak baca;Negative
+Loker ini sering crash;Negative
+RFID-nya super responsif, mantap;Positive
+Pengenalan wajahnya oke, tapi bisa lebih akurat.;Neutral
+Proses verifikasinya cukup baik, tapi lambat.;Neutral
+Enggak praktis sama sekali;Negative
+Loker ini sering rusak;Negative
+Lumayan, meskipun ada sedikit jeda.;Neutral
+Lokernya enggak ribet, praktis banget;Positive
+RFID-nya keren, cepat dan akurat;Positive
+Face recognition-nya suka ngelag;Negative
+RFID sering enggak responsif;Negative
+Sistemnya cukup efisien, tapi ada kalanya error.;Neutral
+Face recognition cukup baik, meski kadang lambat.;Neutral
+Face recognition-nya sering ngehang;Negative
+RFID sering enggak kerja;Negative
+Sistemnya bikin pusing;Negative
+Locker ini lumayan, meski tidak selalu bekerja dengan baik.;Neutral
+Prosesnya lambat, tapi berhasil.;Neutral
+RFID-nya sering fail;Negative
+RFID membantu akses, tapi kadang tidak berfungsi.;Neutral
+Loker ini mudah digunakan, tapi kadang susah diakses.;Neutral
+Face recognition-nya ngaco terus;Negative
+Sistemnya canggih, puas deh;Positive
+Face recognition-nya akurat banget, puas;Positive
+Lokernya praktis banget, recommended;Positive
+Pengenalan wajahnya cukup akurat, tapi lambat.;Neutral
+Prosesnya oke, tapi kadang lambat.;Neutral
+Sistem ini sangat membantu saya dalam menyimpan barang.;Positive
+Teknologi yang digunakan pada smart locker ini cukup canggih.;Positive
+Face recognition kurang responsif pada kondisi pencahayaan rendah.;Neutral
+Saya merasa lebih aman dengan menggunakan smart locker ini.;Positive
+Teknologi face recognition perlu ditingkatkan akurasinya.;Neutral
+Locker ini cukup baik, meski tidak selalu bekerja dengan baik.;Neutral
+Loker ini enggak praktis;Negative
+"Desain modern smart locker ini sangat cocok untuk lingkungan kampus.";Positive
+"Smart locker dengan teknologi RFID membuat proses penyimpanan barang menjadi lebih cepat.";Positive
+Face recognition-nya cukup oke, tapi kadang ribet;Neutral
+Lokernya cukup nyaman, tapi kadang lemot;Neutral
+Loker ini modern, tapi masih ada yang perlu diperbaiki.;Neutral
+RFID-nya cukup bagus, tapi kadang lambat;Neutral
+Sistemnya cukup user-friendly, tapi kadang error;Neutral
+Sistemnya sering nge-lag;Negative
+"Saya merasa sangat aman dengan adanya fitur face detection pada smart locker.";Positive
+"Fitur RFID pada smart locker sangat memudahkan saya saat harus menyimpan barang dengan cepat.";Positive
+"Tampilan smart locker yang futuristik menambah estetika ruangan.";Positive
+Sistemnya canggih banget, puas deh;Positive
+Keamanan smart locker ini dapat diandalkan untuk melindungi barang berharga.;Positive
+RFID-nya kadang nggak kebaca, tapi masih oke.;Neutral
+Face recognition-nya akurat banget, enggak pernah gagal;Positive
+Lokernya praktis banget, enggak ribet;Positive
+Face recognition-nya enggak bener;Negative
+RFID-nya sering ngestuck;Negative
+Sistemnya cukup stabil, tapi kadang ngaco;Neutral
+Loker ini sering error;Negative
+Teknologinya oke, tapi ada beberapa kali error.;Neutral
+Face recognition sering berhasil, tapi kadang butuh ulang.;Neutral
+RFID kadang tidak terbaca, jadi harus dicoba lagi.;Neutral
+Loker ini praktis, tapi face recognition-nya kadang lambat.;Neutral
+Sistemnya bagus, meski ada beberapa kendala.;Neutral
+Sistemnya oke, puas pake;Positive
+Face recognition-nya super responsif, recommended;Positive
+RFID-nya cukup cepat, tapi kadang crash;Neutral
+Sistem verifikasinya lambat, bikin kesel.;Negative
+RFID-nya cukup responsif, tapi kadang ngestuck;Neutral
+Lokernya enggak error;Positive
+RFID-nya lumayan baik, tapi kadang ngestuck;Neutral
+Sistemnya cukup baik, tapi kadang ngadat;Neutral
+Pengenalan wajahnya suka error, nggak praktis.;Negative
+Pintu loker kadang susah dibuka, tapi nggak sering.;Neutral
+RFID-nya top, cepat banget;Positive
+Sistemnya canggih, enggak ada masalah;Positive
+Lokernya enggak lambat;Positive
+Face recognition-nya akurat banget, mantap;Positive
+RFID sering nggak kebaca, capek.;Negative
+Lokernya cukup berguna, tapi kadang crash;Neutral
+Pengenalan wajahnya sering nggak akurat, bikin repot.;Negative
+RFID suka nggak respon, bikin ribet.;Negative
+Sistemnya lambat, ribet.;Negative
+Lokernya cukup praktis, tapi ada beberapa bug;Neutral
+RFID-nya nggak akurat, kesel banget.;Negative
+Proses verifikasinya lama banget, bikin ribet.;Negative
+Keamanan yang ditawarkan sangat baik, sangat direkomendasikan.;Positive
+Face recognition-nya cukup oke, tapi kadang ngestuck;Neutral
+Lokernya cukup nyaman, tapi ada kalanya ngadat;Neutral
+RFID-nya sering tidak merespon, males banget.;Negative
+Lokernya enggak crash;Positive
+Face recognition-nya cukup baik, tapi kadang lambat;Neutral
+Sistemnya cukup efisien, tapi ada beberapa bug;Neutral
+Pintu loker sering macet, bikin bete.;Negative
+RFID-nya sering nggak respon, males banget.;Negative
+Sistemnya simpel, gampang pake;Positive
+Face recognition-nya cepat dan akurat, recommended;Positive
+Lokernya nyaman banget, puas pake;Positive
+Loker ini sering macet, nggak reliable.;Negative
+Lokernya cukup modern, tapi ada beberapa kendala;Neutral
+Pintu loker nggak mau kebuka, bikin repot.;Negative
+RFID-nya super cepat, recommended;Positive
+RFID-nya cukup baik, meski kadang nggak kebaca.;Neutral
+Loker ini lumayan, nggak selalu lancar.;Neutral
+RFID sering error, bikin kesel.;Negative
+Loker tidak bagus, suka nggak mau buka, frustrasi.;Negative
+Proses buka loker tidak bagus, ribet, nggak efisien.;Negative
+Sistem verifikasinya cukup cepat, meski kadang lambat.;Neutral
+Smart locker ini memberikan kemudahan akses tanpa harus antri lama.;Positive
+Aplikasi pendukung dari smart locker ini sangat stabil dan jarang mengalami masalah.;Positive
+Verifikasi wajahnya cukup baik, tapi ada delay.;Neutral
+Sistem RFID sering gagal, sangat mengecewakan.;Negative
+Lokernya enggak susah diakses;Positive
+Lokernya enggak rumit;Positive
+Smart locker ini sangat praktis dan mudah digunakan.;Positive
+Deteksi wajah sering gagal, sangat mengganggu.;Negative
+Smart locker ini memberikan kemudahan dalam mengatur dan menyimpan barang.;Positive
+Pengalaman buruk dengan loker tidak bagus ini, sering error.;Negative
+Pintu loker kadang susah dibuka, tapi nggak sering.;Neutral
+RFID-nya cukup baik, meski kadang nggak kebaca.;Neutral
+Loker ini lumayan, nggak selalu lancar.;Neutral
+Loker tidak merespons saat menggunakan kartu RFID.;Negative
+Pengenalan wajah sering tidak berfungsi dengan baik.;Negative
+Verifikasi wajahnya cukup baik, tapi ada delay.;Neutral
+Loker ini cukup praktis, tapi masih ada kekurangan.;Neutral
+Kartu RFID sering tidak merespons.;Negative
+"RFID memberikan kenyamanan lebih karena tidak perlu membawa kunci fisik.";Positive
+"Face detection pada smart locker bekerja dengan sangat akurat.";Positive
+"Dengan smart locker, saya bisa menyimpan barang berharga dengan rasa aman.";Positive
+"Smart locker ini sangat membantu menjaga barang tetap aman dan terorganisir.";Positive
+Sistem verifikasinya cukup cepat, meski kadang lambat.;Neutral
+RFID-nya kadang nggak kebaca, tapi masih oke.;Neutral
+Sistem tidak mengenali kartu RFID.;Negative
+Loker sulit dibuka dengan face recognition.;Negative
+Sistem pengenalan wajah tidak akurat.;Negative
+RFID sering tidak terbaca.;Negative
+RFID-nya cukup cepat, tapi kadang enggak responsif;Neutral
+Sistemnya cukup efisien, tapi kadang error;Neutral
+Proses verifikasi wajah sangat lambat dan sering gagal.;Negative
+Kartu RFID sering gagal dibaca.;Negative
+Sering teknis.;Negative
+Inovatif.;Positive
+Frustrasi rfid.;Negative
+Face recognition-nya cukup akurat, tapi ada kalanya lemot;Neutral
+Lokernya enggak buruk, tapi ada beberapa kendala;Neutral
+RFID-nya cukup responsif, tapi kadang miss;Neutral
+Sistemnya cukup simpel, tapi bisa lebih user-friendly;Neutral
+Face recognition-nya lumayan cepat, tapi ada kalanya ngelag;Neutral
+Praktis.;Positive
+Sering down.;Negative
+Solusi bagus.;Positive
+Deteksi wajah kadang lambat, tapi bisa diterima.;Neutral
+Sistem cukup efisien, meski ada kendala kecil.;Neutral
+Loker ini cukup berguna, meski ada beberapa masalah.;Neutral
+Pengenalan wajahnya sangat cepat dan akurat, bagus banget.;Positive
+Sistem ini sangat efisien, sangat membantu.;Positive
+RFID-nya selalu bekerja dengan baik, sangat puas.;Positive
+RFID-nya sering enggak deteksi;Negative
+Loker ini enggak worth it;Negative
+Face recognition-nya sering bermasalah;Negative
+RFID-nya enggak reliable;Negative
+Face recognition-nya lumayan cepat, tapi kadang error;Neutral
+Lokernya cukup berguna, tapi ada beberapa kendala;Neutral
+RFID-nya lumayan baik, tapi kadang miss;Neutral
+Sistemnya cukup baik, tapi kadang ngelag;Neutral
+Sistemnya sering trouble;Negative
+Loker ini enggak user-friendly;Negative
+Lokernya enggak lemot;Positive
+Lokernya enggak jelek, tapi masih ada ruang perbaikan;Neutral
+RFID-nya cukup baik, tapi kadang error;Neutral
+Lokernya enggak macet;Positive
+Loker ini gampang rusak;Negative
+Face recognition-nya susah banget;Negative
+Sistemnya lumayan, tapi butuh penyempurnaan;Neutral
+Face recognition-nya oke, tapi ada kendala kecil;Neutral
+Lokernya cukup nyaman, tapi ada kalanya macet;Neutral
+Pengalaman menggunakan smart locker ini sangat memuaskan.;Positive
+Pintu loker tidak mau kebuka, bikin repot.;Negative
+Pengenalan wajahnya suka error, tidak praktis.;Negative
+Lokernya enggak ribet buat dipakai;Positive
+Sistem face detection sangat akurat, sangat membantu.;Positive
+RFID bekerja sempurna, sangat memuaskan.;Positive
+Deteksi wajah sangat cepat dan akurat, sangat puas.;Positive
+RFID-nya cukup cepat, tapi kadang ngaco;Neutral
+Sistemnya cukup stabil, tapi kadang lambat;Neutral
+Loker suka nggak mau buka, frustrasi.;Negative
+Proses buka loker ribet, nggak efisien.;Negative
+Pengalaman buruk dengan loker ini, sering error.;Negative
+Lokernya enggak membingungkan;Positive
+Face recognition-nya cukup akurat, tapi kadang miss;Neutral
+RFID tidak terdeteksi, sangat mengganggu.;Negative
+RFID bekerja baik, tapi kadang tidak terdeteksi.;Neutral
+Lokernya cukup praktis, tapi bisa lebih baik;Neutral
+RFID-nya cukup responsif, tapi kadang lemot;Neutral
+Sistemnya cukup stabil, tapi butuh peningkatan;Neutral
+Face recognition-nya cukup oke, tapi ada kalanya salah;Neutral
+Loker sering bermasalah, tidak puas sama sekali.;Negative
+Sistem ini sering error, sangat mengganggu.;Negative
+Smart locker ini sangat efisien, benar-benar membantu.;Positive
+Sistem sering crash, sangat mengganggu.;Negative
+Loker ini lumayan, meski ada beberapa kekurangan.;Neutral
+Sistem verifikasi cukup akurat, tapi kadang lambat.;Neutral
+Penggunaan loker cukup praktis, meski ada beberapa kendala.;Neutral
+Loker sering tidak bisa dibuka, sangat tidak praktis.;Negative
+Deteksi wajah lumayan cepat, tapi masih ada delay.;Neutral
+RFID sering banget bermasalah;Negative
+Lokernya kurang praktis;Negative
+Face recognition-nya sering gagal deteksi;Negative
+RFID-nya suka error;Negative
+Sistem ini cukup efisien, meski ada beberapa masalah.;Neutral
+Loker cukup praktis, meski kadang susah dibuka.;Neutral
 Sangat praktis dan aman digunakan smart locker ini.;Positive
 Pengalaman kurang menyenangkan karena sering bermasalah.;Negative
 Keamanan smart locker baik.;Positive
@@ -239,9 +605,10 @@ Implementasi perlu diperbaiki.;Neutral
 Puas dengan keamanan smart locker.;Positive
 rfid tidak selalu baik.;Negative
 Berguna dan mudah digunakan smart locker.;Positive
-Masalah teknis sering terjadi.;Negative
-Nyaman menggunakan smart locker.;Positive
-Gagal rfid sering terjadi.;Negative
+RFID suka nggak respon, nggak nyaman.;Negative
+Pengenalan wajahnya lumayan, kadang nggak akurat.;Neutral
+Bukanya agak susah, tapi masih oke.;Neutral
+Pintu loker sering macet, ribet.;Negative
 Bantu di perpustakaan.;Positive
 Lama rfid kadang.;Neutral
 Aman dan praktis digunakan.;Positive
@@ -252,50 +619,88 @@ Berguna untuk penyimpanan.;Positive
 Error rfid.;Neutral
 Lebih aman dengan smart locker.;Positive
 Proses pengenalan wajah sering tidak berfungsi.;Negative
-Kartu RFID sering tidak merespons.;Negative
-Loker tidak merespons saat menggunakan kartu RFID.;Negative
-Pengenalan wajah sering tidak berfungsi dengan baik.;Negative
-Sistem tidak mengenali kartu RFID.;Negative
-Loker sulit dibuka dengan face recognition.;Negative
-Proses verifikasi wajah sangat lambat dan sering gagal.;Negative
-Kartu RFID sering gagal dibaca.;Negative
-Sistem pengenalan wajah tidak akurat.;Negative
-RFID sering tidak terbaca.;Negative
-Sering teknis.;Negative
-Inovatif.;Positive
-Frustrasi rfid.;Negative
-Praktis.;Positive
-Sering down.;Negative
-Solusi bagus.;Positive
 Error rfid.;Neutral
 Tambah keamanan.;Positive
 Ganggu rfid.;Negative
 Perlu diperbaiki.;Neutral
 Puas dengan keamanan.;Positive
+RFID suka lambat responnya.;Neutral
 Tidak akurat.;Negative
 Mudah digunakan.;Positive
 RFID sering nggak kebaca, males deh.;Negative
-RFID suka nggak respon, nggak nyaman.;Negative
-Pintu loker sering macet, ribet.;Negative
-RFID-nya sering nggak respon, kesel.;Negative
-Pengenalan wajahnya lumayan, kadang nggak akurat.;Neutral
-RFID suka lambat responnya.;Neutral
-Bukanya agak susah, tapi masih oke.;Neutral
 Loker ini lumayan, meski ada kendala.;Neutral
 Sistemnya cukup baik, tapi bisa lebih cepat.;Neutral
 Sering masalah.;Negative
 Nyaman.;Positive
+Face recognition sering berfungsi, tapi kadang lambat.;Neutral
+Loker ini mudah digunakan, tapi kadang error.;Neutral
+Pintu loker kadang tidak terbuka, sangat merepotkan.;Negative
+Deteksi wajah sangat lambat, sangat tidak efisien.;Negative
+Teknologi ini canggih, tapi masih perlu penyempurnaan.;Neutral
+Face recognition cukup akurat, tapi kadang gagal.;Neutral
+Penggunaan face detection di smart locker ini memerlukan peningkatan dalam responsivitas.;Neutral
+Smart locker ini belum memberikan solusi yang optimal dalam manajemen akses barang.;Negative
+Face detection di smart locker ini terkadang tidak responsif terhadap perintah.;Negative
+Sistem RFID pada smart locker ini belum sempurna dalam manajemen akses.;Negative
+Desain smart locker yang futuristik membuat saya terkesan.;Positive
+Face recognition bekerja, tapi kadang tidak akurat.;Neutral
+Loker ini lumayan, tapi kadang ada error.;Neutral
+Smart locker ini memberikan keamanan yang optimal untuk menyimpan barang berharga.;Positive
+Aplikasi pendukung dari smart locker ini tidak stabil dan sering error.;Negative
+RFID-nya sering tidak terdeteksi kalau kartu terlalu jauh.;Neutral
+Smart locker ini memberikan kemudahan akses dan pengambilan barang.;Positive
+Pengalaman menggunakan smart locker ini lebih baik dari yang saya harapkan.;Positive
+Fitur keamanan dari smart locker ini sangat memuaskan.;Positive
+Kecepatan layanan dari smart locker ini sangat baik.;Positive
+Smart locker ini kurang intuitif dalam penggunaan face detection.;Negative
+Face detection di smart locker ini masih dalam tahap pengembangan yang aktif.;Neutral
+Penggunaan RFID di smart locker ini memerlukan peningkatan dalam integrasi.;Negative
+Smart locker ini belum memberikan keamanan yang optimal dengan teknologi face detection.;Negative
+Sistem RFID pada smart locker ini terkadang tidak stabil dalam membaca kartu.;Negative
+Teknologinya menarik, tapi masih perlu perbaikan.;Neutral
+Face recognition kadang tidak bekerja, tapi RFID membantu.;Neutral
+RFID-nya sering nggak respon, kesel.;Negative
+Masalah teknis sering terjadi.;Negative
+Gagal rfid sering terjadi.;Negative
+RFID sering lancar, tapi kadang tidak terdeteksi.;Neutral
+Loker ini efisien, tapi kadang face recognition lambat.;Neutral
+Nyaman menggunakan smart locker.;Positive
+RFID membantu, tapi kadang tidak berfungsi.;Neutral
+Pengalaman menggunakan loker ini sangat memuaskan.;Positive
+RFID selalu bekerja dengan baik, sangat membantu.;Positive
+Penggunaan loker ini sangat praktis dan mudah.;Positive
+Kadang face recognition butuh beberapa kali percobaan.;Neutral
+Penggunaan face detection di smart locker ini membutuhkan lebih banyak waktu untuk identifikasi.;Negative
+Smart locker ini belum memberikan solusi yang efektif dalam manajemen akses menggunakan RFID.;Negative
+Face detection di smart locker ini terkadang tidak akurat dalam mengenali wajah.;Negative
+Lokernya enggak ngestuck;Positive
 Gagal rfid.;Negative
+Face recognition lumayan akurat, tapi kadang gagal.;Neutral
+Loker ini mudah digunakan, tapi kadang bermasalah.;Neutral
 tidak efisien.;Negative
+Sistemnya lumayan oke, tapi kadang face recognition error.;Neutral
+RFID sering berfungsi, tapi kadang tidak akurat.;Neutral
+Lokernya enggak miss;Positive
+Loker ini lumayan, tapi face recognition-nya kadang lambat.;Neutral
+Teknologi ini keren, meski ada beberapa kendala.;Neutral
+Face recognition sering berhasil, tapi kadang gagal juga.;Neutral
+Sistem RFID pada smart locker ini perlu ditingkatkan dalam keamanan akses barang.;Negative
+Penggunaan face detection di smart locker ini tidak intuitif dalam penggunaannya.;Negative
+Lokernya enggak ngadat;Positive
+Lokernya enggak ngaco;Positive
+RFID kadang tidak berfungsi, jadi harus coba lagi.;Neutral
 sangat efisien.;Positive
-efisien sekali.;Positive
-tidak efisien.;Negative
+Loker ini cukup membantu, tapi ada beberapa masalah teknis.;Neutral
 "Locker ini oke banget buat simpan barang, aman deh pokoknya.";Positive
 "Kadang face recognition-nya error, tapi lumayan lah.";Neutral
 "Harga lumayan mahal sih, tapi kualitasnya biasa aja.";Negative
 "Smart locker ini keren, cepet banget prosesnya.";Positive
 "Kesel deh, sering banget gak bisa diakses.";Negative
 "Face recognition-nya bikin aman banget, puas!";Positive
+Loker ini cukup oke, tapi butuh penyempurnaan.;Neutral
+Teknologi ini lumayan, tapi masih ada kekurangan.;Neutral
+efisien sekali.;Positive
+tidak efisien.;Negative
 "Smart locker ini gampang dipake, top lah.";Positive
 "Locker sering rusak, nggak recomended deh.";Negative
 "Biasa aja sih, nggak terlalu bagus.";Neutral
@@ -308,23 +713,11 @@ tidak efisien.;Negative
 "Harga mahal tapi kualitasnya jelek, nyesel beli.";Negative
 "Gampang dipake, bikin nyaman deh.";Positive
 "Locker sering nggak berfungsi, ngecewain.";Negative
-"Seneng pake locker ini, aman dan modern.";Positive
-"Kadang face recognition-nya berfungsi, kadang nggak.";Neutral
-"Nggak puas sama kualitasnya, sering rusak.";Negative
-"Face recognition-nya oke, nggak ada masalah.";Positive
-"Kesel banget, sering nggak bisa dipake.";Negative
-"Biasa aja sih, nggak terlalu istimewa.";Neutral
-"Aman banget pake locker ini, recomended.";Positive
-"Sering error, nggak efisien banget.";Negative
 "Kualitasnya oke, lumayan lah.";Neutral
 "Face recognition-nya bikin tenang, aman.";Positive
 "Kesel deh sering rusak, nggak worth it.";Negative
 "Biasa aja sih, nggak jelek tapi nggak bagus juga.";Neutral
 "Face recognition-nya top, puas banget.";Positive
-"Sering banget nggak bisa diakses, kesel.";Negative
-"Keren banget fiturnya lengkap, suka!";Positive
-"Kadang berfungsi, kadang nggak, bikin kesel.";Neutral
-"Harga mahal tapi kualitas biasa aja.";Negative
 "Gampang dipake, sangat membantu.";Positive
 RFID bekerja dengan sangat baik dan cepat.;Positive
 Sistem RFID kadang-kadang tidak berfungsi dengan baik.;Negative
@@ -335,6 +728,14 @@ Face recognition sering gagal terutama di kondisi pencahayaan rendah.;Negative
 Locker ini sangat berguna untuk menyimpan barang berharga.;Positive
 RFID sering bermasalah dalam membaca kartu.;Negative
 "Kesel sering error, nggak efisien.";Negative
+Loker ini enggak nyaman dipake;Negative
+RFID membantu akses lebih cepat, tapi kadang error.;Neutral
+Teknologi face recognition-nya bagus, meski kadang lambat.;Neutral
+RFID-nya sering disconnect;Negative
+Face recognition-nya sering enggak berfungsi;Negative
+Sistemnya suka bermasalah;Negative
+Face recognition-nya lemot banget;Negative
+RFID sering berfungsi, tapi tidak selalu.;Neutral
 "Seneng banget pake locker ini, aman.";Positive
 "Face recognition-nya sering ngadat, capek.";Negative
 "Biasa aja sih, nggak terlalu bagus.";Neutral
@@ -352,11 +753,14 @@ RFID sering bermasalah dalam membaca kartu.;Negative
 "Harga mahal tapi kualitas oke.";Neutral
 "Smart locker ini bikin hidup lebih gampang.";Positive
 "Kesel banget, sering bermasalah.";Negative
-"Face recognition-nya keren banget, puas.";Positive
-"Locker ini lumayan, nggak jelek tapi juga nggak bagus.";Neutral
+Loker ini praktis, tapi kadang face recognition tidak responsif.;Neutral
+Kombinasi teknologi ini bagus, meski ada kendala.;Neutral
 "Gampang banget dipake, suka deh.";Positive
 "Sering error, bikin kesel.";Negative
 "Face recognition-nya sering nggak berfungsi, capek.";Negative
+Sistemnya canggih, tapi perlu sedikit penyesuaian.;Neutral
+"Face recognition-nya keren banget, puas.";Positive
+"Locker ini lumayan, nggak jelek tapi juga nggak bagus.";Neutral
 "Locker ini praktis dan aman.";Positive
 "Harga terlalu mahal untuk kualitas segini.";Negative
 "Locker ini lumayan lah, nggak buruk banget.";Neutral
@@ -375,14 +779,55 @@ RFID sering bermasalah dalam membaca kartu.;Negative
 Pintu loker kadang nggak mau kebuka, tapi nggak sering.;Neutral
 Pengenalan wajahnya cukup baik, meski suka error.;Neutral
 RFID sering nggak kebaca, tapi nggak selalu.;Neutral
-Verifikasinya cukup cepat, meski kadang lambat.;Neutral
-Loker ini cukup baik, meski sering macet.;Neutral
-RFID suka nggak respon, tapi nggak sering.;Neutral
-Bukanya agak susah, tapi masih bisa.;Neutral
+Kombinasi face recognition dan RFID bikin aman dan nyaman.;Positive
+Sistemnya canggih dan user-friendly, jadi gampang dipakai.;Positive
 Loker ini cukup baik, meski sering error.;Neutral
 Sistemnya lumayan cepat, tapi bisa lebih baik.;Neutral
 Pintu loker kadang susah dibuka, tapi nggak selalu.;Neutral
 RFID-nya cukup baik, meski kadang nggak respon.;Neutral
+RFID sering tidak berfungsi, jadi harus coba beberapa kali.;Negative
+Face recognition sering salah, jadi sering gagal buka loker.;Negative
+Face recognition dan RFID bekerja dengan baik, jadi sangat memudahkan.;Positive
+Face recognition sering gagal mengenali wajah, jadi harus pakai kunci manual.;Negative
+RFID-nya sering tidak terbaca, jadi malah bikin ribet.;Negative
+Sistemnya efisien, tapi ada kekurangan.;Neutral
+Teknologi face recognition cukup baik, tapi tidak sempurna.;Neutral
+Face recognition kadang tidak akurat, jadi harus coba lagi.;Neutral
+RFID sering berfungsi, tapi kadang gagal.;Neutral
+Teknologinya cukup oke, tapi masih perlu perbaikan.;Neutral
+"Desain inovatif smart locker menambah nilai estetika ruangan.";Positive
+"Smart locker dengan RFID sangat membantu di lingkungan kerja yang sibuk.";Positive
+Loker ini sering error, jadi tidak bisa dipakai dengan lancar.;Negative
+Sistem face recognition lambat banget, jadi sering antri lama.;Negative
+Verifikasinya cukup cepat, meski kadang lambat.;Neutral
+Loker ini cukup baik, meski sering macet.;Neutral
+Sistemnya oke, enggak ribet;Positive
+RFID memudahkan akses, meski ada beberapa kali kesalahan.;Neutral
+RFID suka nggak respon, tapi nggak sering.;Neutral
+Bukanya agak susah, tapi masih bisa.;Neutral
+Loker ini sering bermasalah, jadi tidak praktis sama sekali.;Negative
+Face recognition kadang cepat, kadang lambat.;Neutral
+Loker ini cukup modern, tapi perlu perbaikan di beberapa fitur.;Neutral
+Face recognition bekerja, tapi kadang tidak maksimal.;Neutral
+Sistemnya keren, puas banget;Positive
+"Smart locker ini sering tidak bisa diakses saat dibutuhkan.";Negative
+"Saya merasa puas dengan layanan smart locker ini.";Positive
+"Desain smart locker ini sangat buruk dan tidak menarik.";Negative
+Face recognition-nya cukup baik, tapi ada beberapa kendala;Neutral
+Lokernya cukup modern, tapi kadang ngestuck;Neutral
+RFID-nya cukup responsif, tapi kadang ngaco;Neutral
+Sistemnya cukup efisien, tapi kadang lemot;Neutral
+"Smart locker ini sangat membantu dalam penyimpanan barang.";Positive
+"Face recognition di smart locker ini sering bermasalah.";Negative
+Face recognition-nya mantap, akurat banget;Positive
+Lokernya praktis, recommended banget;Positive
+RFID-nya bekerja sempurna, suka;Positive
+Loker ini cukup praktis, tapi ada beberapa masalah teknis.;Neutral
+RFID membuat akses lebih mudah, tapi kadang bermasalah.;Neutral
+RFID membutuhkan posisi yang tepat.;Neutral
+"Akses menggunakan face detection terasa seperti teknologi masa depan.";Positive
+"Smart locker ini membuat proses penyimpanan barang menjadi lebih efisien.";Positive
+"Teknologi RFID pada smart locker benar-benar menghemat waktu.";Positive
 Pengenalan wajahnya oke, tapi kadang salah.;Neutral
 Loker ini lumayan, meski sering macet.;Neutral
 "Seneng banget, aman pake locker ini.";Positive
@@ -394,6 +839,99 @@ Loker ini lumayan, meski sering macet.;Neutral
 "Sering nggak berfungsi, bikin kesel.";Negative
 "Face recognition-nya bikin aman, puas banget.";Positive
 "Locker sering rusak, nggak puas.";Negative
+"Face detection pada smart locker sangat akurat dan cepat mengenali wajah.";Positive
+"Dengan teknologi RFID, tidak perlu lagi khawatir kehilangan kunci.";Positive
+"Penggunaan smart locker sangat mengurangi antrian di perpustakaan.";Positive
+Proses pengenalan wajah kadang-kadang lambat.;Neutral
+"Sistem keamanan pada smart locker ini sangat terjamin dengan face detection.";Positive
+"Smart locker dengan desain minimalis dan modern sangat eye-catching.";Positive
+"Proses pendaftaran wajah pada smart locker sangat mudah dan cepat.";Positive
+RFID-nya cukup cepat, tapi enggak selalu konsisten;Neutral
+Sistemnya cukup user-friendly, tapi kadang membingungkan;Neutral
+Face recognition-nya lumayan akurat, tapi kadang miss;Neutral
+Lokernya cukup modern, tapi bisa lebih baik;Neutral
+"Fitur RFID sangat membantu bagi mereka yang sering lupa membawa kunci.";Positive
+"Smart locker ini membuat saya lebih tenang saat harus meninggalkan barang berharga.";Positive
+"Akurasi face detection pada smart locker sangat mengesankan.";Positive
+Face recognition sering gagal mengenali wajah.;Negative
+RFID tidak berfungsi dengan baik.;Negative
+Sistem sering mengalami error.;Negative
+Sistem berfungsi baik, tapi terkadang ada masalah kecil.;Neutral
+Keamanan yang diberikan cukup baik, meski ada beberapa kendala.;Neutral
+RFID kadang-kadang tidak terbaca dengan baik.;Negative
+Pintu loker sering macet.;Negative
+Proses pengenalan wajah sangat lambat.;Negative
+RFID sering tidak responsif.;Negative
+"Seneng pake locker ini, aman dan modern.";Positive
+"Kadang face recognition-nya berfungsi, kadang nggak.";Neutral
+"Nggak puas sama kualitasnya, sering rusak.";Negative
+"Face recognition-nya oke, nggak ada masalah.";Positive
+"Kesel banget, sering nggak bisa dipake.";Negative
+"Biasa aja sih, nggak terlalu istimewa.";Neutral
+"Aman banget pake locker ini, recomended.";Positive
+Sistemnya cukup user-friendly, tapi kadang ngadat;Neutral
+Loker sering butuh reset ulang.;Negative
+Proses pengenalan wajah terlalu lama.;Negative
+"Sering error, nggak efisien banget.";Negative
+Loker tidak bisa terbuka dengan kartu RFID.;Negative
+Pengenalan wajah sering gagal.;Negative
+Harus mencoba beberapa kali agar loker terbuka.;Negative
+Face recognition sering tidak akurat.;Negative
+Kartu RFID sulit dibaca oleh sistem.;Negative
+RFID-nya cukup bagus, tapi ada beberapa error;Neutral
+RFID tidak selalu bekerja.;Negative
+Lokernya cukup modern, tapi bisa lebih praktis;Neutral
+"Fitur face detection memberikan rasa aman tambahan bagi pengguna smart locker.";Positive
+"Desain smart locker sangat intuitif dan user-friendly.";Positive
+"Teknologi RFID pada smart locker benar-benar revolusioner.";Positive
+"Proses face detection bekerja sangat cepat dan efisien.";Positive
+"Smart locker ini sangat membantu mengurangi resiko kehilangan barang.";Positive
+"Penggunaan RFID membuat akses ke smart locker lebih cepat dan mudah.";Positive
+Lokernya cukup nyaman, tapi bisa lebih efisien;Neutral
+Face recognition-nya cukup baik, tapi kadang ngaco;Neutral
+Loker sering tidak merespons kartu RFID.;Negative
+Sistem tidak selalu merespons saat kartu RFID digunakan.;Negative
+Kartu RFID sering tidak terbaca dengan baik.;Negative
+RFID sering tidak merespons dengan baik.;Negative
+Loker tidak berfungsi saat menggunakan kartu RFID.;Negative
+Loker tidak berfungsi saat kartu RFID digunakan.;Negative
+Locker ini lumayan lah, nggak buruk banget.;Neutral
+Sistem pengenalan wajahnya oke, tapi kadang perlu dicoba beberapa kali.;Neutral
+RFID-nya cukup baik, tapi butuh penyesuaian.;Neutral
+"RFID smart locker sangat user-friendly dan mudah digunakan.";Positive
+"Fitur face detection meningkatkan keamanan smart locker secara signifikan.";Positive
+"Desain ergonomis smart locker membuatnya mudah digunakan oleh semua orang.";Positive
+"Teknologi RFID memastikan hanya pemilik yang bisa mengakses loker.";Positive
+Pemindaian RFID tidak selalu berhasil pada percobaan pertama.;Neutral
+Pengenalan wajah bisa lebih akurat.;Neutral
+Sangat praktis digunakan untuk menyimpan barang di kampus.;Positive
+Face recognition sering gagal saat saya memakai masker.;Negative
+RFID memudahkan akses ke locker dengan cepat.;Positive
+Sistem keamanan locker ini bisa lebih baik.;Neutral
+Teknologi yang digunakan pada locker ini sangat modern.;Positive
+Kadang RFID tidak terbaca, sangat merepotkan.;Negative
+Face recognition sangat akurat dan responsif.;Positive
+Loker ini praktis, namun ada beberapa kali kesalahan deteksi.;Neutral
+"RFID smart locker sangat memudahkan penyimpanan barang secara cepat dan aman.";Positive
+"Desain smart locker ini sangat elegan dan futuristik.";Positive
+"Dengan teknologi face detection, saya merasa barang saya lebih aman.";Positive
+"Teknologi RFID membuat smart locker ini sangat mudah diakses.";Positive
+RFID membuat akses lebih cepat, tapi terkadang tidak terbaca.;Neutral
+"Pengalaman menggunakan smart locker ini cukup memuaskan.";Positive
+"Smart locker ini tidak layak untuk digunakan.";Negative
+"Face detection pada smart locker bekerja sangat cepat dan efektif.";Positive
+"Saya sangat puas dengan kinerja dan desain smart locker ini.";Positive
+Pengenalan wajahnya oke, tapi kadang lambat.;Neutral
+Kadang harus dicoba beberapa kali agar terbuka.;Neutral
+"Harga mahal tapi nggak puas.";Negative
+"Locker ini gampang banget dipake, praktis!";Positive
+"Face detection memastikan hanya saya yang bisa membuka smart locker ini.";Positive
+"Desain modern smart locker ini sangat cocok untuk lingkungan kampus.";Positive
+Loker sering harus di-reset.;Neutral
+Face recognition kadang gagal, tapi RFID-nya membantu.;Neutral
+"Sering rusak, nggak recomended.";Negative
+"Face recognition-nya bikin aman, recomended!";Positive
+Loker ini lumayan, tapi kadang sistemnya error.;Neutral
 "Seneng banget, fiturnya lengkap dan modern.";Positive
 "Sering bermasalah, bikin kesel.";Negative
 "Locker ini lumayan, nggak jelek juga.";Neutral
@@ -408,27 +946,29 @@ Loker sering tidak merespons saat menggunakan kartu RFID.;Negative
 Pintu loker sering tidak terbuka dengan mudah.;Negative
 Kartu RFID sering tidak terbaca oleh sistem.;Negative
 Loker tidak merespons saat kartu RFID digunakan.;Negative
-Sistem sering mengalami error saat menggunakan kartu RFID.;Negative
-Kartu RFID sering tidak merespons dengan baik.;Negative
-Sistem pengenalan wajah sering mengalami masalah.;Negative
+Sistem deteksi wajah cukup akurat, meski kadang lambat.;Neutral
+Sistem ini sangat membantu, sangat direkomendasikan.;Positive
+Penggunaan RFID sangat memudahkan, walau face recognition kadang lambat.;Neutral
+Loker ini membantu keamanan, tapi kadang sistemnya tidak stabil.;Neutral
+Face recognition-nya lumayan akurat, meskipun tidak selalu.;Neutral
+Loker ini cukup praktis, tapi butuh perbaikan di beberapa area.;Neutral
+Face recognition cukup akurat, namun ada beberapa kali error.;Neutral
+Face recognition-nya cepat dan akurat, jadi tidak perlu repot.;Positive
+RFID sangat memudahkan akses, jadi tidak perlu bawa banyak kunci.;Positive
+Loker ini modern dan praktis banget buat dipakai sehari-hari.;Positive
 RFID tidak selalu terbaca oleh sistem.;Negative
 Tidak selalu langsung terbuka, kadang harus coba ulang.;Neutral
 Proses verifikasi wajahnya sedang-sedang saja.;Neutral
 Kadang berhasil, kadang tidak.;Neutral
 Bisa digunakan, meskipun ada beberapa kendala.;Neutral
 Sistemnya cukup baik, tapi bisa lebih responsif.;Neutral
+Kombinasi face recognition dan RFID cukup baik, meski masih ada kekurangan.;Neutral
+Pengalaman penggunaan cukup baik, walau ada beberapa masalah teknis.;Neutral
+RFID sangat membantu, walaupun face recognition kadang bermasalah.;Neutral
+Sistem sering mengalami error saat menggunakan kartu RFID.;Negative
+Kartu RFID sering tidak merespons dengan baik.;Negative
+Sistem pengenalan wajah sering mengalami masalah.;Negative
 Face recognition lumayan, tapi perlu peningkatan.;Neutral
-Pengenalan wajah cukup baik, meskipun tidak selalu akurat.;Neutral
-Sistem kadang lambat merespons.;Neutral
-RFID-nya kadang perlu dicoba beberapa kali.;Neutral
-Proses verifikasinya oke, tapi ada sedikit jeda.;Neutral
-Locker ini cukup baik, meski tidak sempurna.;Neutral
-Pengenalan wajahnya oke, tapi kadang lambat.;Neutral
-Kadang harus dicoba beberapa kali agar terbuka.;Neutral
-"Harga mahal tapi nggak puas.";Negative
-"Locker ini gampang banget dipake, praktis!";Positive
-"Sering rusak, nggak recomended.";Negative
-"Face recognition-nya bikin aman, recomended!";Positive
 "Kesel sering nggak berfungsi, nyesel deh.";Negative
 "Locker ini lumayan oke, nggak jelek.";Neutral
 "Face recognition di smart locker sering bermasalah, mengecewakan.";Negative
@@ -446,43 +986,30 @@ Kadang harus dicoba beberapa kali agar terbuka.;Neutral
 "Saya merasa kecewa dengan layanan smart locker ini.";Negative
 "Smart locker ini cukup memadai, meski ada beberapa kekurangan.";Neutral
 "Face recognition di smart locker ini sangat canggih.";Positive
-"Saya sering mengalami masalah teknis dengan smart locker ini.";Negative
-"Smart locker ini memberikan solusi praktis untuk penyimpanan.";Positive
-"Fitur face recognition di smart locker ini biasa saja.";Neutral
+Sistemnya cukup efisien, tapi perlu peningkatan.;Neutral
+Face recognition bekerja dengan baik, meski tidak selalu.;Neutral
+Loker ini mudah digunakan, tapi butuh penyempurnaan.;Neutral
+Kombinasi teknologi cukup bagus, meski ada kekurangan.;Neutral
 "Smart locker ini sangat tidak praktis, sering bermasalah.";Negative
 "Desain smart locker ini sangat menarik dan modern.";Positive
 "Saya merasa kecewa dengan kualitas smart locker ini.";Negative
 "Face recognition di smart locker ini sering gagal.";Negative
-"Pengalaman menggunakan smart locker ini cukup memuaskan.";Positive
-"Smart locker ini tidak layak untuk digunakan.";Negative
+"Saya sering mengalami masalah teknis dengan smart locker ini.";Negative
+"Smart locker ini memberikan solusi praktis untuk penyimpanan.";Positive
+"Fitur face recognition di smart locker ini biasa saja.";Neutral
+Fitur face recognition sering berfungsi, tapi tidak selalu.;Neutral
 "Saya merasa sangat aman menggunakan smart locker ini.";Positive
 "Fitur smart locker ini cukup standar.";Neutral
-"Smart locker ini sering tidak bisa diakses saat dibutuhkan.";Negative
-"Saya merasa puas dengan layanan smart locker ini.";Positive
-"Desain smart locker ini sangat buruk dan tidak menarik.";Negative
-"Smart locker ini sangat membantu dalam penyimpanan barang.";Positive
-"Face recognition di smart locker ini sering bermasalah.";Negative
-"Saya merasa kecewa dengan kinerja smart locker ini.";Negative
-"Pengalaman menggunakan smart locker ini cukup baik.";Neutral
-"Smart locker ini sangat inovatif dan canggih.";Positive
-"Face recognition di smart locker ini sangat tidak akurat.";Negative
-"Saya merasa tidak puas dengan smart locker ini.";Negative
-"Smart locker ini sangat membantu dalam menjaga keamanan barang-barang.";Positive
-"Saya merasa sangat kecewa dengan kualitas smart locker ini.";Negative
-"Smart locker ini sangat efisien dan mudah digunakan.";Positive
-"Smart locker ini sering bermasalah, sangat mengecewakan.";Negative
 "Teknologi face recognition-nya bikin locker ini makin keren!";Positive
 Kadang face recognition-nya nggak jalan, tapi overall oke.;Neutral
 Smart locker ini lumayan, tapi face recognition-nya sering ngadat.;Negative
 Sangat puas dengan face recognition di smart locker ini.;Positive
 Face recognition di smart locker ini sering nggak akurat.;Negative
 "Penggunaan face detection membuat akses loker lebih aman dan praktis.";Positive
-"Desain modern smart locker ini sangat cocok untuk lingkungan kampus.";Positive
-"Smart locker dengan teknologi RFID membuat proses penyimpanan barang menjadi lebih cepat.";Positive
-"Saya merasa sangat aman dengan adanya fitur face detection pada smart locker.";Positive
-"Fitur RFID pada smart locker sangat memudahkan saya saat harus menyimpan barang dengan cepat.";Positive
-"Tampilan smart locker yang futuristik menambah estetika ruangan.";Positive
-Face recognition sering tidak berfungsi dengan baik.;Negative
+"Saya merasa kecewa dengan kinerja smart locker ini.";Negative
+"Pengalaman menggunakan smart locker ini cukup baik.";Neutral
+"Smart locker ini sangat inovatif dan canggih.";Positive
+"Face recognition di smart locker ini sangat tidak akurat.";Negative
 Locker ini sangat praktis dan aman digunakan.;Positive
 RFID kadang tidak berfungsi dengan baik.;Negative
 Saya merasa sangat terbantu dengan adanya smart locker ini.;Positive
@@ -490,116 +1017,25 @@ Keamanan locker masih perlu ditingkatkan.;Neutral
 Teknologi RFID sangat memudahkan akses.;Positive
 Face recognition sering gagal mengenali wajah saya.;Negative
 Locker ini sangat membantu saya menyimpan barang dengan aman.;Positive
+"Saya merasa tidak puas dengan smart locker ini.";Negative
+"Smart locker ini sangat membantu dalam menjaga keamanan barang-barang.";Positive
+Proses verifikasinya oke, tapi ada sedikit jeda.;Neutral
+Locker ini cukup baik, meski tidak sempurna.;Neutral
+"Smart locker ini sering bermasalah, sangat mengecewakan.";Negative
+Face recognition sering tidak berfungsi dengan baik.;Negative
 Face recognition sangat memudahkan akses ke locker.;Positive
 RFID sering gagal terbaca, sangat mengganggu.;Negative
 Locker ini sangat efisien dan aman.;Positive
-"Face detection pada smart locker sangat akurat dan cepat mengenali wajah.";Positive
-"Dengan teknologi RFID, tidak perlu lagi khawatir kehilangan kunci.";Positive
-"Penggunaan smart locker sangat mengurangi antrian di perpustakaan.";Positive
-"Akses menggunakan face detection terasa seperti teknologi masa depan.";Positive
-"Smart locker ini membuat proses penyimpanan barang menjadi lebih efisien.";Positive
-"Teknologi RFID pada smart locker benar-benar menghemat waktu.";Positive
-"Sistem keamanan pada smart locker ini sangat terjamin dengan face detection.";Positive
-"Smart locker dengan desain minimalis dan modern sangat eye-catching.";Positive
-"Proses pendaftaran wajah pada smart locker sangat mudah dan cepat.";Positive
-"Fitur RFID sangat membantu bagi mereka yang sering lupa membawa kunci.";Positive
-"Smart locker ini membuat saya lebih tenang saat harus meninggalkan barang berharga.";Positive
-"Akurasi face detection pada smart locker sangat mengesankan.";Positive
-Face recognition sering gagal mengenali wajah.;Negative
-RFID tidak berfungsi dengan baik.;Negative
-Sistem sering mengalami error.;Negative
-Pintu loker sering macet.;Negative
-Proses pengenalan wajah sangat lambat.;Negative
-RFID sering tidak responsif.;Negative
-Loker tidak bisa terbuka dengan kartu RFID.;Negative
-Pengenalan wajah sering gagal.;Negative
-Harus mencoba beberapa kali agar loker terbuka.;Negative
-Face recognition sering tidak akurat.;Negative
-Kartu RFID sulit dibaca oleh sistem.;Negative
-Loker sering butuh reset ulang.;Negative
-Proses pengenalan wajah terlalu lama.;Negative
-RFID tidak selalu bekerja.;Negative
-"Smart locker ini sangat membantu mengurangi resiko kehilangan barang.";Positive
-"Penggunaan RFID membuat akses ke smart locker lebih cepat dan mudah.";Positive
-"Fitur face detection memberikan rasa aman tambahan bagi pengguna smart locker.";Positive
-"Desain smart locker sangat intuitif dan user-friendly.";Positive
-"Teknologi RFID pada smart locker benar-benar revolusioner.";Positive
-"Face detection membuat penggunaan smart locker sangat praktis.";Positive
-"Smart locker ini sangat cocok untuk digunakan di berbagai tempat umum.";Positive
-"Kombinasi desain modern dan teknologi canggih membuat smart locker ini sangat menarik.";Positive
-"RFID pada smart locker ini sangat responsif dan efisien.";Positive
-"Saya sangat puas dengan fitur keamanan yang disediakan oleh smart locker ini.";Positive
-"Proses akses menggunakan face detection sangat cepat dan tidak repot.";Positive
-"Smart locker ini membuat penyimpanan barang menjadi lebih terorganisir.";Positive
-"Teknologi face detection pada smart locker sangat memudahkan akses tanpa perlu kunci.";Positive
-"RFID membuat proses membuka dan mengunci loker menjadi sangat mudah dan cepat.";Positive
-"Smart locker ini memiliki desain yang sangat elegan dan futuristik.";Positive
-"Dengan face detection, saya tidak perlu khawatir lupa membawa kunci.";Positive
-"Keamanan yang ditawarkan oleh RFID pada smart locker ini sangat memuaskan.";Positive
-"Desain smart locker ini sangat stylish dan modern, cocok untuk kantor.";Positive
-"Proses face detection bekerja sangat cepat dan efisien.";Positive
-Loker sering tidak merespons kartu RFID.;Negative
-Sistem tidak selalu merespons saat kartu RFID digunakan.;Negative
-Kartu RFID sering tidak terbaca dengan baik.;Negative
-RFID sering tidak merespons dengan baik.;Negative
-Loker tidak berfungsi saat menggunakan kartu RFID.;Negative
-Loker tidak berfungsi saat kartu RFID digunakan.;Negative
-Locker ini lumayan lah, nggak buruk banget.;Neutral
-Sistem pengenalan wajahnya oke, tapi kadang perlu dicoba beberapa kali.;Neutral
-RFID-nya cukup baik, tapi butuh penyesuaian.;Neutral
-"RFID smart locker sangat user-friendly dan mudah digunakan.";Positive
-"Fitur face detection meningkatkan keamanan smart locker secara signifikan.";Positive
-"Desain ergonomis smart locker membuatnya mudah digunakan oleh semua orang.";Positive
-"Teknologi RFID memastikan hanya pemilik yang bisa mengakses loker.";Positive
-"Dengan smart locker, saya bisa menyimpan barang berharga dengan rasa aman.";Positive
-"Smart locker ini sangat membantu menjaga barang tetap aman dan terorganisir.";Positive
-"RFID memberikan kenyamanan lebih karena tidak perlu membawa kunci fisik.";Positive
-"Face detection pada smart locker bekerja dengan sangat akurat.";Positive
-"Desain inovatif smart locker menambah nilai estetika ruangan.";Positive
-"Smart locker dengan RFID sangat membantu di lingkungan kerja yang sibuk.";Positive
-"Face detection memberikan akses cepat dan aman ke smart locker.";Positive
-"Saya sangat terkesan dengan kecepatan dan keamanan smart locker ini.";Positive
-"Teknologi RFID pada smart locker membuat hidup lebih praktis.";Positive
-"Desain ramping dan modern smart locker ini sangat menarik perhatian.";Positive
-"Face detection memungkinkan akses yang cepat dan tanpa sentuhan ke loker.";Positive
-"RFID pada smart locker ini bekerja dengan sangat baik dan responsif.";Positive
-"Saya merasa sangat puas dengan smart locker ini, terutama fitur face detection-nya.";Positive
-"Smart locker ini memiliki desain yang sangat modern dan estetis.";Positive
-"Teknologi face detection sangat memudahkan dan meningkatkan keamanan.";Positive
-"RFID smart locker sangat cocok untuk digunakan di berbagai tempat umum.";Positive
-"Dengan face detection, smart locker ini terasa sangat canggih dan modern.";Positive
-"Desain minimalis smart locker ini sangat elegan dan fungsional.";Positive
-"Smart locker dengan RFID memastikan barang tetap aman sepanjang waktu.";Positive
-"Face detection pada smart locker ini sangat akurat dan mudah digunakan.";Positive
-"Smart locker ini benar-benar membantu mengurangi kekhawatiran kehilangan barang.";Positive
-"RFID pada smart locker ini sangat praktis dan memudahkan akses.";Positive
-"Teknologi face detection memberikan rasa aman tambahan saat menggunakan smart locker.";Positive
-"Desain stylish smart locker ini membuatnya terlihat sangat modern.";Positive
-"Saya sangat puas dengan kemudahan penggunaan smart locker ini.";Positive
-RFID kadang-kadang tidak terbaca dengan baik.;Negative
-Sangat praktis digunakan untuk menyimpan barang di kampus.;Positive
-Face recognition sering gagal saat saya memakai masker.;Negative
-RFID memudahkan akses ke locker dengan cepat.;Positive
-Sistem keamanan locker ini bisa lebih baik.;Neutral
-Teknologi yang digunakan pada locker ini sangat modern.;Positive
-Kadang RFID tidak terbaca, sangat merepotkan.;Negative
-Face recognition sangat akurat dan responsif.;Positive
-"Face detection pada smart locker bekerja sangat cepat dan efektif.";Positive
-"RFID smart locker sangat memudahkan penyimpanan barang secara cepat dan aman.";Positive
-"Desain smart locker ini sangat elegan dan futuristik.";Positive
-"Dengan teknologi face detection, saya merasa barang saya lebih aman.";Positive
-"Teknologi RFID membuat smart locker ini sangat mudah diakses.";Positive
-"Saya sangat puas dengan kinerja dan desain smart locker ini.";Positive
-"Face detection memastikan hanya saya yang bisa membuka smart locker ini.";Positive
-"Desain modern smart locker ini sangat cocok untuk lingkungan kampus.";Positive
 "RFID pada smart locker ini sangat responsif dan mudah digunakan.";Positive
 "Teknologi face detection pada smart locker ini sangat memudahkan dan aman.";Positive
 "Desain smart locker ini sangat menarik dan futuristik.";Positive
+"Saya merasa sangat kecewa dengan kualitas smart locker ini.";Negative
+"Smart locker ini sangat efisien dan mudah digunakan.";Positive
+Pengenalan wajah cukup baik, meskipun tidak selalu akurat.;Neutral
+Sistem kadang lambat merespons.;Neutral
+RFID-nya kadang perlu dicoba beberapa kali.;Neutral
 "Saya merasa sangat aman dengan adanya fitur RFID pada smart locker.";Positive
 "Face detection pada smart locker ini sangat akurat dan cepat.";Positive
-"Desain smart locker ini sangat user-friendly dan mudah digunakan.";Positive
-Desain smart locker ini sangat user-friendly dan mudah digunakan.;Positive
-Saya sangat senang dengan kemudahan menggunakan smart locker ini.;Positive
 Smart locker ini memiliki desain yang menarik namun sulit untuk digunakan.;Negative
 Pengalaman menggunakan smart locker ini cukup baik meskipun ada beberapa kekurangan.;Neutral
 Pelayanan pengguna smart locker perlu ditingkatkan agar lebih responsif.;Negative
@@ -622,13 +1058,17 @@ Keamanan smart locker ini memuaskan dan membuat saya merasa tenang.;Positive
 Pengaturan tata letak smart locker ini sangat efisien dan terorganisir.;Positive
 Penggunaan smart locker ini mempermudah proses pengambilan barang.;Positive
 Saya merasa kesulitan dalam menggunakan fitur-fitur smart locker ini.;Negative
-Responsivitas aplikasi smart locker ini perlu ditingkatkan agar lebih cepat.;Negative
-Smart locker ini memberikan fleksibilitas yang cukup baik bagi pengguna.;Positive
+Lokernya cukup praktis, tapi enggak sempurna;Neutral
 Desain smart locker yang minimalis sangat cocok dengan gaya hidup saya.;Positive
 Pelayanan pelanggan dari smart locker ini kurang memuaskan.;Negative
 Aplikasi pendukung dari smart locker ini sulit untuk diakses.;Negative
+RFID-nya lumayan responsif, tapi enggak selalu;Neutral
+Responsivitas aplikasi smart locker ini perlu ditingkatkan agar lebih cepat.;Negative
+Smart locker ini memberikan fleksibilitas yang cukup baik bagi pengguna.;Positive
 Keamanan smart locker ini membuat saya merasa tenang dalam menyimpan barang berharga.;Positive
 Saya merasa tidak nyaman dengan proses pengambilan barang menggunakan smart locker ini.;Negative
+Sistemnya cukup stabil, meski kadang error;Neutral
+Face recognition-nya akurat, tapi bisa lebih baik;Neutral
 Fitur-fitur tambahan dari smart locker ini sangat membantu dalam aktivitas harian.;Positive
 Smart locker ini mudah untuk digunakan meskipun baru pertama kali.;Positive
 Pengalaman menggunakan smart locker ini lebih baik dari yang saya perkirakan.;Positive
@@ -649,6 +1089,9 @@ Smart locker ini sulit untuk diakses oleh pengguna dengan kebutuhan khusus.;Nega
 Aplikasi pendukung dari smart locker ini memudahkan penggunaan sehari-hari.;Positive
 Smart locker ini tidak sesuai dengan kebutuhan saya karena terlalu rumit.;Negative
 Desain smart locker yang futuristik membuat saya terkesan.;Positive
+Sistemnya sering error, bikin bete;Negative
+Kadang face recognition-nya enggak akurat;Negative
+Loker ini ribet banget;Negative
 Smart locker ini memberikan kemudahan akses dan pengambilan barang.;Positive
 Pengalaman menggunakan smart locker ini lebih baik dari yang saya harapkan.;Positive
 Fitur keamanan dari smart locker ini sangat memuaskan.;Positive
@@ -667,7 +1110,15 @@ Smart locker ini memberikan fleksibilitas yang baik bagi pengguna.;Positive
 Desain smart locker ini sederhana namun fungsional.;Neutral
 Smart locker ini membantu dalam pengambilan barang namun kurang responsif.;Neutral
 Keamanan smart locker ini memberikan rasa aman dalam menyimpan barang.;Positive
+Lokernya enggak bagus;Negative
+Face recognition-nya sering ngaco;Negative
+Sistem keamanan smart locker ini standar untuk melindungi barang.;Neutral
+Smart locker ini memberikan pengalaman pengguna yang nyaman dengan teknologi RFID.;Positive
+Lokernya enggak bagus, karena RFID-nya sering enggak konek;Negative
+RFID-nya sering enggak kebaca;Negative
 Saya merasa tidak nyaman dengan proses pengambilan barang menggunakan smart locker ini.;Negative
+Desain smart locker ini terlihat biasa saja namun cukup praktis.;Neutral
+Face detection di smart locker ini memungkinkan saya untuk merasa lebih aman.;Positive
 Fitur-fitur tambahan dari smart locker ini sangat membantu dalam aktivitas sehari-hari.;Positive
 Smart locker ini mudah digunakan meskipun baru pertama kali.;Positive
 Pengalaman menggunakan smart locker ini lebih baik dari yang saya perkirakan.;Positive
@@ -687,75 +1138,11 @@ Pelayanan pengguna smart locker ini sangat membantu namun perlu ditingkatkan.;Ne
 Smart locker ini sulit untuk diakses oleh pengguna dengan kebutuhan khusus.;Negative
 Aplikasi pendukung dari smart locker ini memudahkan penggunaan sehari-hari.;Positive
 Smart locker ini tidak sesuai dengan kebutuhan saya karena terlalu rumit.;Negative
-Desain smart locker yang futuristik membuat saya terkesan.;Positive
-Smart locker ini memberikan kemudahan akses dan pengambilan barang.;Positive
-Pengalaman menggunakan smart locker ini lebih baik dari yang saya harapkan.;Positive
-Fitur keamanan dari smart locker ini sangat memuaskan.;Positive
-Smart locker ini memberikan keamanan yang optimal untuk menyimpan barang berharga.;Positive
-Aplikasi pendukung dari smart locker ini tidak stabil dan sering error.;Negative
-Kecepatan layanan dari smart locker ini sangat baik.;Positive
 Penggunaan smart locker ini mempermudah proses pengambilan barang harian.;Positive
 Desain smart locker ini kurang menarik dan terkesan biasa saja.;Neutral
 Smart locker ini memiliki fitur yang cukup baik namun perlu ditingkatkan lagi.;Neutral
 Pengalaman menggunakan smart locker ini cukup memuaskan.;Neutral
-Saya merasa kurang aman dengan keamanan smart locker ini.;Negative
-Sistem RFID pada smart locker ini bisa lebih dioptimalkan dalam pengelolaan akses.;Neutral
-Smart locker ini memudahkan saya untuk mengatur barang dengan efisien.;Positive
-Face detection di smart locker ini memungkinkan saya untuk merasa lebih aman.;Positive
-Smart locker ini memberikan pengalaman pengguna yang nyaman dengan teknologi RFID.;Positive
-Sistem face detection pada smart locker ini perlu diperbarui untuk kinerja yang lebih baik.;Neutral
-RFID yang digunakan pada smart locker ini sangat andal dalam mengelola akses.;Positive
-Smart locker ini memberikan solusi yang efisien untuk pengelolaan barang.;Positive
-Fitur-fitur tambahan dari smart locker ini sangat membantu dalam pengaturan barang.;Positive
-Penggunaan smart locker ini mudah untuk digunakan namun perlu peningkatan fitur-fitur.;Neutral
-Responsivitas aplikasi smart locker ini perlu diperbaiki agar lebih cepat.;Negative
-Smart locker ini memberikan fleksibilitas yang baik bagi pengguna.;Positive
-Desain smart locker ini sederhana namun fungsional.;Neutral
-Smart locker ini membantu dalam pengambilan barang namun kurang responsif.;Neutral
-Keamanan smart locker ini sangat baik dan membuat saya merasa tenang.;Positive
-Pengaturan tata letak smart locker ini sangat efektif dan terstruktur dengan baik.;Positive
-Penggunaan smart locker ini mempermudah proses pengambilan barang sehari-hari.;Positive
-Saya merasa kesulitan dalam menggunakan fitur-fitur dari smart locker ini.;Negative
-Pelayanan pengguna smart locker ini perlu ditingkatkan agar lebih responsif.;Negative
-Aplikasi pendukung dari smart locker ini sulit untuk diakses.;Negative
-Smart locker ini sangat praktis digunakan dalam kehidupan sehari-hari.;Positive
-Desain smart locker yang inovatif membuat pengguna merasa terkesan.;Positive
-Saya merasa nyaman menggunakan smart locker ini untuk menyimpan barang.;Positive
-Pengalaman penggunaan smart locker ini sangat menyenangkan.;Positive
-Smart locker ini memudahkan pengambilan barang dengan teknologi canggih.;Positive
-Aplikasi pendukung dari smart locker ini sangat stabil dan jarang mengalami masalah.;Positive
-Keamanan smart locker ini dapat diandalkan untuk melindungi barang berharga.;Positive
-Smart locker ini memberikan kemudahan dalam mengatur dan menyimpan barang.;Positive
-Desain smart locker yang elegan membuat suasana lebih modern.;Positive
-Smart locker ini sangat membantu dalam menyimpan barang-barang kecil.;Positive
-Pengalaman menggunakan smart locker ini lebih efisien daripada metode tradisional.;Positive
-Fitur-fitur tambahan dari smart locker ini sangat membantu dalam kegiatan sehari-hari.;Positive
-Smart locker ini memberikan fleksibilitas yang baik untuk penggunaannya.;Positive
-Desain smart locker yang minimalis memberikan kesan ruang yang lebih lapang.;Positive
-Aplikasi smart locker ini mudah diakses dan user-friendly.;Positive
-Kecepatan layanan dari smart locker ini membuat pengguna merasa terlayani dengan baik.;Positive
-Smart locker ini memberikan solusi praktis untuk menyimpan barang-barang penting.;Positive
-Penggunaan smart locker ini membantu mengurangi waktu untuk pengambilan barang.;Positive
-Sistem keamanan smart locker ini memberikan rasa aman yang tinggi.;Positive
-Desain smart locker yang ergonomis membuat pengguna merasa nyaman.;Positive
-Aplikasi pendukung dari smart locker ini memiliki antarmuka yang intuitif.;Positive
-Keamanan smart locker ini dapat dipercaya untuk melindungi barang pribadi.;Positive
-Smart locker ini memberikan kemudahan akses kapan pun dibutuhkan.;Positive
-Desain smart locker ini cocok untuk berbagai jenis ruangan.;Positive
-Penggunaan smart locker ini mengurangi kekhawatiran tentang keamanan barang.;Positive
-Smart locker ini memberikan pengalaman yang menyenangkan dalam pengambilan barang.;Positive
-Fitur-fitur dari smart locker ini terintegrasi dengan baik untuk kenyamanan pengguna.;Positive
-Pengaturan smart locker ini dapat disesuaikan sesuai kebutuhan pengguna.;Positive
-Smart locker ini memberikan kemudahan dalam mengelola penyimpanan barang.;Positive
-Aplikasi smart locker ini didukung dengan teknologi terbaru untuk kinerja yang optimal.;Positive
-Keamanan smart locker ini mengurangi risiko kehilangan barang berharga.;Positive
-Desain smart locker yang mudah dipahami membuat pengguna tidak kesulitan.;Positive
-Smart locker ini memberikan perlindungan yang baik terhadap barang-barang berharga.;Positive
-Penggunaan smart locker ini meningkatkan efisiensi dalam pengambilan barang.;Positive
-Smart locker ini memberikan kemudahan akses tanpa harus antri lama.;Positive
-Desain smart locker ini terlihat elegan dan modern.;Positive
-Aplikasi pendukung dari smart locker ini memiliki respon yang cepat.;Positive
-Keamanan smart locker ini memberikan rasa tenang selama menggunakan layanan.;Positive
+Loker ini cukup praktis, meski ada beberapa kendala.;Neutral
 Smart locker ini memberikan opsi yang fleksibel untuk pengaturan penyimpanan.;Positive
 Desain smart locker ini mengoptimalkan ruang penyimpanan dengan baik.;Positive
 Pengalaman menggunakan smart locker ini tidak mengecewakan.;Neutral
@@ -766,6 +1153,62 @@ Kadang-kadang RFID tidak terbaca, sangat merepotkan.;Negative
 Fitur face recognition sangat akurat dan cepat.;Positive
 Saya tidak yakin dengan kehandalan RFID dalam jangka panjang.;Neutral
 Sistem ini sangat membantu di perpustakaan kampus.;Positive
+Saya merasa kurang aman dengan keamanan smart locker ini.;Negative
+Sistem RFID pada smart locker ini bisa lebih dioptimalkan dalam pengelolaan akses.;Neutral
+Smart locker ini memudahkan saya untuk mengatur barang dengan efisien.;Positive
+Sistemnya bikin ribet;Negative
+Face recognition-nya lambat banget;Negative
+Desain smart locker ini sederhana namun fungsional.;Neutral
+Smart locker ini membantu dalam pengambilan barang namun kurang responsif.;Neutral
+Lokernya enggak bagus, ribet pake banget;Negative
+Sistem face detection pada smart locker ini perlu diperbarui untuk kinerja yang lebih baik.;Neutral
+RFID yang digunakan pada smart locker ini sangat andal dalam mengelola akses.;Positive
+Smart locker ini memberikan solusi yang efisien untuk pengelolaan barang.;Positive
+Fitur-fitur tambahan dari smart locker ini sangat membantu dalam pengaturan barang.;Positive
+Penggunaan smart locker ini mudah untuk digunakan namun perlu peningkatan fitur-fitur.;Neutral
+Desain smart locker ini sederhana namun tidak begitu menarik.;Neutral
+Fitur-fitur dari smart locker ini cukup standar untuk digunakan.;Neutral
+Fitur-fitur tambahan dari smart locker ini sangat membantu dalam kegiatan sehari-hari.;Positive
+Smart locker ini memberikan fleksibilitas yang baik untuk penggunaannya.;Positive
+Responsivitas aplikasi smart locker ini perlu diperbaiki agar lebih cepat.;Negative
+Smart locker ini memberikan fleksibilitas yang baik bagi pengguna.;Positive
+Aplikasi smart locker ini memiliki navigasi yang cukup mudah dipahami.;Neutral
+Keamanan smart locker ini memberikan perlindungan yang lumayan.;Neutral
+Smart locker ini memberikan pengalaman yang cukup umum dalam penggunaannya.;Neutral
+Smart locker ini memberikan kemudahan akses kapan pun dibutuhkan.;Positive
+Desain smart locker ini cocok untuk berbagai jenis ruangan.;Positive
+Face recognition bekerja, tapi kadang kurang akurat.;Neutral
+RFID membantu akses, tapi kadang tidak terdeteksi.;Neutral
+Penggunaan face detection di smart locker ini terkadang membingungkan.;Negative
+Smart locker ini belum memberikan pengalaman yang optimal dalam akses barang.;Negative
+Face detection di smart locker ini terkadang tidak akurat dalam pengenalan wajah.;Negative
+Sistem RFID pada smart locker ini perlu ditingkatkan dalam kecepatan akses.;Negative
+Loker ini efisien, tapi kadang bermasalah.;Neutral
+Penggunaan smart locker ini mengurangi kekhawatiran tentang keamanan barang.;Positive
+Smart locker ini memberikan pengalaman yang menyenangkan dalam pengambilan barang.;Positive
+Fitur-fitur dari smart locker ini terintegrasi dengan baik untuk kenyamanan pengguna.;Positive
+Pengaturan smart locker ini dapat disesuaikan sesuai kebutuhan pengguna.;Positive
+Sistemnya cukup efisien, tapi masih bisa ditingkatkan;Neutral
+Face recognition-nya cukup baik, tapi kadang lemot;Neutral
+Penggunaan smart locker ini membantu mengurangi waktu untuk pengambilan barang.;Positive
+Pengalaman menggunakan smart locker ini lebih efisien daripada metode tradisional.;Positive
+Loker ini lumayan praktis, tapi kadang sulit diakses.;Neutral
+Sistemnya canggih, tapi ada kalanya error.;Neutral
+RFID bekerja dengan baik, sangat puas.;Positive
+Sistem ini sangat akurat, sangat membantu.;Positive
+RFID sering error, sangat mengecewakan.;Negative
+Loker sering bermasalah, sangat tidak praktis.;Negative
+Pintu loker sering tidak terbuka, sangat merepotkan.;Negative
+Loker ini cukup lumayan, meski ada beberapa kekurangan.;Neutral
+Sistem keamanan smart locker ini memberikan rasa aman yang tinggi.;Positive
+Sistem sering tidak berfungsi, sangat mengecewakan.;Negative
+Smart locker ini memberikan kemudahan dalam mengelola penyimpanan barang.;Positive
+Desain smart locker yang elegan membuat suasana lebih modern.;Positive
+Smart locker ini sangat membantu dalam menyimpan barang-barang kecil.;Positive
+RFID bekerja cukup baik, tapi kadang tidak terdeteksi.;Neutral
+Deteksi wajah cukup cepat, tapi masih ada delay.;Neutral
+RFID sering tidak respon, sangat mengganggu.;Negative
+RFID sering tidak terdeteksi, sangat mengganggu.;Negative
 Locker ini praktis dan memudahkan penyimpanan barang.;Positive
 Sangat puas dengan teknologi yang digunakan pada locker ini.;Positive
 Face recognition sering gagal mendeteksi wajah saya, terutama saat saya memakai kacamata.;Negative
@@ -780,15 +1223,20 @@ Keamanan smart locker ini memberikan rasa aman yang memadai.;Neutral
 Smart locker ini memberikan pengalaman pengguna yang standar.;Neutral
 Desain smart locker ini tidak terlalu menarik namun cukup efektif.;Neutral
 Pengalaman menggunakan smart locker ini tidak terlalu istimewa.;Neutral
+Desain smart locker yang minimalis memberikan kesan ruang yang lebih lapang.;Positive
+Aplikasi smart locker ini mudah diakses dan user-friendly.;Positive
+Kecepatan layanan dari smart locker ini membuat pengguna merasa terlayani dengan baik.;Positive
+Smart locker ini memberikan solusi praktis untuk menyimpan barang-barang penting.;Positive
+RFID-nya cukup responsif, tapi kadang ngadat;Neutral
+Lokernya enggak buruk, tapi butuh beberapa perbaikan;Neutral
+RFID-nya cukup bagus, tapi ada kalanya gagal;Neutral
+Deteksi wajah sering tidak akurat, sangat tidak membantu.;Negative
+Proses verifikasi sangat lambat, sangat tidak efisien.;Negative
+Desain smart locker yang ergonomis membuat pengguna merasa nyaman.;Positive
+Aplikasi pendukung dari smart locker ini memiliki antarmuka yang intuitif.;Positive
+Keamanan smart locker ini dapat dipercaya untuk melindungi barang pribadi.;Positive
 Fitur-fitur dari smart locker ini tidak begitu berbeda dari yang lainnya.;Neutral
 Smart locker ini memberikan pengalaman yang biasa dalam penggunaannya.;Neutral
-Sistem keamanan smart locker ini standar untuk melindungi barang.;Neutral
-Desain smart locker ini terlihat biasa saja namun cukup praktis.;Neutral
-Aplikasi smart locker ini memiliki navigasi yang cukup mudah dipahami.;Neutral
-Keamanan smart locker ini memberikan perlindungan yang lumayan.;Neutral
-Smart locker ini memberikan pengalaman yang cukup umum dalam penggunaannya.;Neutral
-Desain smart locker ini sederhana namun tidak begitu menarik.;Neutral
-Fitur-fitur dari smart locker ini cukup standar untuk digunakan.;Neutral
 Smart locker ini memberikan pengalaman yang biasa-biasa saja dalam penggunaannya.;Neutral
 Desain smart locker ini terlihat standard namun tidak terlalu menarik.;Neutral
 Penggunaan smart locker ini tidak terlalu merepotkan namun tidak praktis juga.;Neutral
@@ -803,59 +1251,90 @@ Pengenalan wajah bisa lebih cepat dan akurat.;Neutral
 Kadang butuh beberapa kali percobaan sebelum loker terbuka.;Neutral
 Verifikasi wajah memerlukan waktu yang lebih lama.;Neutral
 Sistem pengenalan wajah bisa lebih responsif.;Neutral
-Smart locker ini memberikan pengalaman yang standar dalam penggunaannya.;Neutral
-Sistem keamanan smart locker ini cukup untuk melindungi barang.;Neutral
-Desain smart locker ini terlihat lumayan namun tidak terlalu menarik.;Neutral
-Aplikasi smart locker ini memiliki antarmuka yang cukup nyaman.;Neutral
-Keamanan smart locker ini memberikan perlindungan yang memadai.;Neutral
 Smart locker ini memberikan pengalaman pengguna yang sangat praktis.;Positive
 Saya suka bagaimana smart locker ini mudah digunakan.;Positive
+"Sering banget nggak bisa diakses, kesel.";Negative
+"Keren banget fiturnya lengkap, suka!";Positive
+RFID-nya sering enggak detek;Negative
+Loker ini bikin repot;Negative
+"Kadang berfungsi, kadang nggak, bikin kesel.";Neutral
+"Harga mahal tapi kualitas biasa aja.";Negative
 Penggunaan teknologi face detection membuat smart locker ini sangat aman.;Positive
 RFID pada smart locker ini sangat efisien dalam pengelolaan akses.;Positive
 Sistem face detection pada smart locker ini bisa lebih responsif.;Neutral
 RFID pada smart locker ini masih memerlukan beberapa peningkatan dalam kinerja.;Neutral
 Smart locker ini memudahkan saya untuk menyimpan barang dengan cepat.;Positive
 Penggunaan face detection pada smart locker ini terasa agak lambat.;Neutral
+"Face detection memberikan akses cepat dan aman ke smart locker.";Positive
+"Saya sangat terkesan dengan kecepatan dan keamanan smart locker ini.";Positive
+"Teknologi RFID pada smart locker membuat hidup lebih praktis.";Positive
+"Desain ramping dan modern smart locker ini sangat menarik perhatian.";Positive
+"Face detection memungkinkan akses yang cepat dan tanpa sentuhan ke loker.";Positive
+"RFID pada smart locker ini sangat praktis dan memudahkan akses.";Positive
+Sistemnya sering down;Negative
+Face recognition-nya enggak bisa diandelin;Negative
+"Teknologi face detection memberikan rasa aman tambahan saat menggunakan smart locker.";Positive
+"Desain stylish smart locker ini membuatnya terlihat sangat modern.";Positive
+"Saya sangat puas dengan kemudahan penggunaan smart locker ini.";Positive
 Saya merasa aman menggunakan smart locker ini karena teknologi RFID.;Positive
 Face detection di smart locker ini terkadang tidak terlalu akurat.;Neutral
 Smart locker ini bisa menjadi lebih baik dengan peningkatan teknologi face detection.;Neutral
 RFID pada smart locker ini memungkinkan akses yang lebih terstruktur.;Positive
 Sistem face detection pada smart locker ini perlu diperbarui untuk kecepatan yang lebih baik.;Neutral
 RFID yang digunakan pada smart locker ini sangat andal.;Positive
+Desain smart locker ini terlihat lumayan namun tidak terlalu menarik.;Neutral
+Aplikasi smart locker ini memiliki antarmuka yang cukup nyaman.;Neutral
 Smart locker ini bisa menjadi pilihan yang baik untuk keamanan barang.;Positive
 Face detection pada smart locker ini memberikan pengalaman yang aman.;Positive
+Smart locker ini memberikan pengalaman yang standar dalam penggunaannya.;Neutral
+Sistem keamanan smart locker ini cukup untuk melindungi barang.;Neutral
+Aplikasi pendukung dari smart locker ini sulit untuk diakses.;Negative
+Face detection di smart locker ini belum stabil dalam pengenalan wajah.;Negative
+Sistem RFID pada smart locker ini membutuhkan perbaikan dalam keamanan akses.;Negative
+Keamanan smart locker ini memberikan perlindungan yang memadai.;Neutral
 Sistem RFID di smart locker ini mudah untuk diintegrasikan dengan sistem lain.;Positive
 Smart locker ini memberikan pengalaman pengguna yang nyaman.;Positive
-Saya merasa lebih tenang menyimpan barang di smart locker ini.;Positive
-Face detection pada smart locker ini terkadang tidak konsisten.;Neutral
-Smart locker ini memberikan solusi praktis untuk pengelolaan barang.;Positive
-RFID yang digunakan pada smart locker ini perlu diperbarui untuk keamanan yang lebih baik.;Neutral
-Sistem face detection pada smart locker ini cukup mudah untuk digunakan.;Positive
-Penggunaan teknologi RFID di smart locker ini sangat efisien.;Positive
-Smart locker ini bisa lebih baik dengan integrasi teknologi face detection yang lebih baik.;Neutral
-Saya merasa sistem face detection di smart locker ini masih kurang responsif.;Neutral
-RFID pada smart locker ini memberikan kemudahan dalam pengelolaan akses.;Positive
-Smart locker ini memberikan keamanan tambahan dengan teknologi face detection.;Positive
-Sistem RFID pada smart locker ini bisa lebih ditingkatkan dalam kinerjanya.;Neutral
-Penggunaan face detection pada smart locker ini membuat pengalaman pengguna lebih modern.;Positive
-Smart locker ini bisa menjadi solusi yang baik untuk keamanan barang.;Positive
-Sistem face detection pada smart locker ini perlu diperbarui untuk meningkatkan kecepatannya.;Neutral
-RFID di smart locker ini memberikan akses yang terorganisir dengan baik.;Positive
 Smart locker ini memberikan kemudahan dalam menyimpan barang berharga.;Positive
+Face recognition bekerja, tapi kadang kurang responsif.;Neutral
+RFID membantu akses lebih cepat, meski terkadang ada error.;Neutral
+Penggunaan face detection pada smart locker ini terasa sangat canggih.;Positive
+Face detection pada smart locker ini perlu diperbarui untuk responsivitas yang lebih baik.;Neutral
+Sistem RFID pada smart locker ini memberikan keamanan tambahan untuk barang.;Positive
 Face detection pada smart locker ini cukup handal dalam pengenalan wajah.;Positive
 Penggunaan teknologi RFID di smart locker ini memudahkan pengelolaan barang.;Positive
 Smart locker ini memberikan kemudahan akses dengan teknologi face detection.;Positive
+Face detection pada smart locker ini perlu diperbarui untuk meningkatkan akurasi.;Neutral
+RFID pada smart locker ini belum sepenuhnya efisien dalam manajemen akses.;Negative
+Sistem face detection di smart locker ini perlu lebih dioptimalkan.;Neutral
+RFID pada smart locker ini kadang-kadang mengalami masalah dalam pembacaan.;Negative
+Smart locker ini memberikan kemudahan tetapi ada ruang untuk peningkatan.;Neutral
+Face detection di smart locker ini terkadang tidak bekerja dengan baik.;Negative
+Sistem RFID pada smart locker ini kurang stabil dalam pengelolaan akses.;Negative
 Saya merasa lebih terlindungi menggunakan smart locker ini dengan RFID.;Positive
 Face detection pada smart locker ini terkadang memerlukan waktu yang lama untuk identifikasi.;Neutral
 Smart locker ini memberikan solusi praktis untuk menyimpan barang.;Positive
+Face detection di smart locker ini memungkinkan akses yang aman dan cepat.;Positive
+Sistem face detection pada smart locker ini bisa lebih baik dengan peningkatan responsivitas.;Neutral
+RFID pada smart locker ini sangat efisien dalam pengelolaan akses barang.;Positive
 RFID yang digunakan pada smart locker ini memungkinkan akses yang terstruktur dengan baik.;Positive
 Smart locker ini memberikan pengalaman yang aman dengan teknologi face detection.;Positive
 Sistem face detection pada smart locker ini bisa lebih responsif dengan pembaruan.;Neutral
 RFID di smart locker ini memberikan keamanan tambahan untuk barang.;Positive
 Smart locker ini memberikan kemudahan dalam pengelolaan akses barang.;Positive
-Penggunaan face detection pada smart locker ini terasa sangat canggih.;Positive
-Face detection pada smart locker ini perlu diperbarui untuk responsivitas yang lebih baik.;Neutral
-Sistem RFID pada smart locker ini memberikan keamanan tambahan untuk barang.;Positive
+Face recognition cukup akurat, tapi tidak selalu.;Neutral
+"RFID pada smart locker ini bekerja dengan sangat baik dan responsif.";Positive
+"Saya merasa sangat puas dengan smart locker ini, terutama fitur face detection-nya.";Positive
+"Smart locker ini memiliki desain yang sangat modern dan estetis.";Positive
+"Smart locker dengan RFID memastikan barang tetap aman sepanjang waktu.";Positive
+Loker ini bikin ribet banget;Negative
+Sistemnya sering ngaco;Negative
+Face recognition-nya susah dipake;Negative
+RFID-nya sering error;Negative
+"Face detection pada smart locker ini sangat akurat dan mudah digunakan.";Positive
+"Smart locker ini benar-benar membantu mengurangi kekhawatiran kehilangan barang.";Positive
+RFID sering berfungsi, tapi ada kalanya gagal.;Neutral
+Loker ini praktis, namun butuh peningkatan.;Neutral
+Kombinasi teknologi cukup baik, meski ada kekurangan.;Neutral
 Smart locker ini memberikan pengalaman pengguna yang praktis dengan teknologi face detection.;Positive
 Saya merasa sistem RFID di smart locker ini sangat terorganisir.;Positive
 Penggunaan face detection pada smart locker ini memberikan tingkat keamanan yang tinggi.;Positive
@@ -883,12 +1362,24 @@ Smart locker ini memberikan pengalaman pengguna yang sangat baik dengan teknolog
 Saya merasa sistem face detection di smart locker ini terkadang kurang akurat.;Neutral
 Smart locker ini memberikan solusi praktis untuk pengelolaan barang dengan efisien.;Positive
 RFID yang digunakan pada smart locker ini memberikan keamanan yang handal.;Positive
+RFID pada smart locker ini perlu ditingkatkan dalam keamanan akses.;Negative
+Smart locker ini belum memberikan solusi yang efisien dalam pengelolaan barang.;Negative
+Sistem face detection pada smart locker ini perlu peningkatan dalam responsivitas.;Neutral
+Penggunaan RFID di smart locker ini terkadang membutuhkan lebih banyak waktu.;Negative
+Smart locker ini memberikan pengalaman yang agak rumit dalam akses barang.;Neutral
+Face detection di smart locker ini kurang dapat diandalkan dalam kondisi tertentu.;Negative
 Smart locker ini memberikan kemudahan dalam akses dengan teknologi face detection yang andal.;Positive
-Face detection di smart locker ini memungkinkan akses yang aman dan cepat.;Positive
-Sistem face detection pada smart locker ini bisa lebih baik dengan peningkatan responsivitas.;Neutral
-RFID pada smart locker ini sangat efisien dalam pengelolaan akses barang.;Positive
 Smart locker ini memberikan solusi yang efektif untuk menyimpan barang berharga.;Positive
 Penggunaan face detection pada smart locker ini memudahkan proses akses.;Positive
+RFID-nya kadang memerlukan beberapa kali percobaan.;Neutral
+Sistemnya oke, meskipun lambat.;Neutral
+Locker ini lumayan, tapi bisa lebih baik.;Neutral
+Proses verifikasi wajahnya agak lambat.;Neutral
+"Teknologi face detection sangat memudahkan dan meningkatkan keamanan.";Positive
+"RFID smart locker sangat cocok untuk digunakan di berbagai tempat umum.";Positive
+"Dengan face detection, smart locker ini terasa sangat canggih dan modern.";Positive
+"Desain minimalis smart locker ini sangat elegan dan fungsional.";Positive
+RFID kadang tidak terbaca dengan baik.;Neutral
 Loker sering mengalami masalah.;Negative
 Loker tidak berfungsi dengan kartu RFID.;Negative
 Pengenalan wajah sering gagal mengenali pengguna.;Negative
@@ -897,15 +1388,26 @@ Pintu loker sering tidak terbuka dengan face recognition.;Negative
 Sistem pengenalan wajah sering mengalami error.;Negative
 RFID tidak selalu terbaca dengan baik.;Negative
 RFID sering kali perlu penyesuaian.;Neutral
+Desain smart locker ini terlihat elegan dan modern.;Positive
+Aplikasi pendukung dari smart locker ini memiliki respon yang cepat.;Positive
+Keamanan smart locker ini memberikan rasa tenang selama menggunakan layanan.;Positive
+Sistemnya cukup bagus, tapi masih ada kendala.;Neutral
+Face recognition cukup akurat, meski kadang lambat.;Neutral
+RFID membantu akses, tapi kadang tidak bekerja.;Neutral
+Smart locker ini memberikan perlindungan yang baik terhadap barang-barang berharga.;Positive
+Penggunaan smart locker ini meningkatkan efisiensi dalam pengambilan barang.;Positive
 Sistem verifikasi wajahnya cukup akurat, tapi lambat.;Neutral
 Prosesnya oke, tapi bisa lebih cepat.;Neutral
+Sistemnya simpel, enggak ribet;Positive
+Face recognition-nya mantap, akurat;Positive
+Lokernya praktis, suka deh;Positive
+RFID-nya bekerja sempurna, mantap;Positive
 Lumayan, meski ada sedikit masalah.;Neutral
+RFID pada smart locker ini perlu ditingkatkan kecepatannya dalam membaca kartu.;Negative
+Smart locker ini tidak memberikan keamanan yang memadai dengan teknologi face detection.;Negative
+Face detection di smart locker ini tidak selalu responsif terhadap pengguna.;Negative
+RFID pada smart locker ini sering mengalami masalah dalam manajemen akses.;Negative
 Pengenalan wajahnya cukup baik, tapi tidak selalu berhasil.;Neutral
-RFID-nya kadang memerlukan beberapa kali percobaan.;Neutral
-Sistemnya oke, meskipun lambat.;Neutral
-Locker ini lumayan, tapi bisa lebih baik.;Neutral
-Proses verifikasi wajahnya agak lambat.;Neutral
-RFID kadang tidak terbaca dengan baik.;Neutral
 Sistem pengenalan wajahnya cukup baik, tapi tidak selalu responsif.;Neutral
 Locker ini cukup oke, meskipun ada masalah kecil.;Neutral
 Prosesnya baik, tapi kadang lambat.;Neutral
@@ -916,6 +1418,35 @@ Smart locker ini memberikan solusi yang praktis untuk keamanan barang.;Positive
 RFID yang digunakan pada smart locker ini memungkinkan pengelolaan akses yang efisien.;Positive
 Sistem face detection pada smart locker ini memberikan tingkat keamanan yang tinggi.;Positive
 RFID di smart locker ini sangat handal dalam mengelola akses.;Positive
+Smart locker ini belum memberikan keamanan yang memuaskan dengan teknologi face detection.;Negative
+Face detection di smart locker ini kurang responsif dalam kondisi tertentu.;Negative
+Sistem RFID pada smart locker ini kurang efektif dalam manajemen akses.;Negative
+Loker ini efisien, meski kadang error.;Neutral
+RFID membantu, tapi face recognition kadang tidak responsif.;Neutral
+Keamanan smart locker ini sangat baik dan membuat saya merasa tenang.;Positive
+Pengaturan tata letak smart locker ini sangat efektif dan terstruktur dengan baik.;Positive
+Penggunaan smart locker ini mempermudah proses pengambilan barang sehari-hari.;Positive
+Loker ini praktis, tapi kadang face recognition tidak akurat.;Neutral
+Teknologi ini membantu, meski ada kendala.;Neutral
+Saya merasa nyaman menggunakan smart locker ini untuk menyimpan barang.;Positive
+Pengalaman penggunaan smart locker ini sangat menyenangkan.;Positive
+Saya merasa kesulitan dalam menggunakan fitur-fitur dari smart locker ini.;Negative
+Pelayanan pengguna smart locker ini perlu ditingkatkan agar lebih responsif.;Negative
+Aplikasi pendukung dari smart locker ini sulit untuk diakses.;Negative
+Smart locker ini sangat praktis digunakan dalam kehidupan sehari-hari.;Positive
+Desain smart locker yang inovatif membuat pengguna merasa terkesan.;Positive
+RFID sering bekerja, tapi kadang bermasalah.;Neutral
+Smart locker ini memudahkan pengambilan barang dengan teknologi canggih.;Positive
+Aplikasi smart locker ini didukung dengan teknologi terbaru untuk kinerja yang optimal.;Positive
+Loker ini cukup modern, tapi masih perlu perbaikan.;Neutral
+Kombinasi teknologi ini cukup bagus, meski ada kekurangan.;Neutral
+Penggunaan face detection di smart locker ini memerlukan lebih banyak waktu untuk pengenalan.;Negative
+Smart locker ini belum memberikan solusi yang efisien dalam manajemen akses menggunakan RFID.;Negative
+Penggunaan teknologi face detection di smart locker ini cukup inovatif.;Positive
+Keamanan smart locker ini mengurangi risiko kehilangan barang berharga.;Positive
+Desain smart locker yang mudah dipahami membuat pengguna tidak kesulitan.;Positive
+Sistemnya cukup bagus, tapi masih ada kekurangan.;Neutral
+RFID sering berfungsi, tapi kadang tidak terdeteksi.;Neutral
 Smart locker ini memberikan solusi yang efisien untuk pengelolaan barang dengan teknologi face detection.;Positive
 Face detection pada smart locker ini memudahkan proses akses barang.;Positive
 Smart locker ini memberikan pengalaman yang aman dengan teknologi RFID yang andal.;Positive
@@ -927,115 +1458,133 @@ Penggunaan teknologi face detection di smart locker ini terasa agak lambat.;Neut
 Face detection di smart locker ini terkadang tidak konsisten.;Neutral
 Saya tidak terlalu yakin dengan keamanan smart locker ini menggunakan RFID.;Negative
 Smart locker ini masih perlu banyak peningkatan dalam pengelolaan akses dengan RFID.;Negative
-Face detection pada smart locker ini perlu diperbarui untuk meningkatkan akurasi.;Neutral
-RFID pada smart locker ini belum sepenuhnya efisien dalam manajemen akses.;Negative
-Sistem face detection di smart locker ini perlu lebih dioptimalkan.;Neutral
-RFID pada smart locker ini kadang-kadang mengalami masalah dalam pembacaan.;Negative
-Smart locker ini memberikan kemudahan tetapi ada ruang untuk peningkatan.;Neutral
-Face detection di smart locker ini terkadang tidak bekerja dengan baik.;Negative
-Sistem RFID pada smart locker ini kurang stabil dalam pengelolaan akses.;Negative
 Penggunaan face detection di smart locker ini membingungkan.;Neutral
 Smart locker ini membutuhkan peningkatan dalam keamanan menggunakan RFID.;Negative
 Face detection pada smart locker ini masih dalam tahap pengembangan.;Neutral
+Saya merasa lebih tenang menyimpan barang di smart locker ini.;Positive
+Face detection pada smart locker ini terkadang tidak konsisten.;Neutral
+Smart locker ini memberikan solusi praktis untuk pengelolaan barang.;Positive
+RFID yang digunakan pada smart locker ini perlu diperbarui untuk keamanan yang lebih baik.;Neutral
+Sistem face detection pada smart locker ini cukup mudah untuk digunakan.;Positive
+Penggunaan teknologi RFID di smart locker ini sangat efisien.;Positive
+Smart locker ini bisa lebih baik dengan integrasi teknologi face detection yang lebih baik.;Neutral
+Saya merasa sistem face detection di smart locker ini masih kurang responsif.;Neutral
+RFID pada smart locker ini memberikan kemudahan dalam pengelolaan akses.;Positive
+Smart locker ini memberikan keamanan tambahan dengan teknologi face detection.;Positive
+Sistem RFID pada smart locker ini bisa lebih ditingkatkan dalam kinerjanya.;Neutral
+Penggunaan face detection pada smart locker ini membuat pengalaman pengguna lebih modern.;Positive
+Smart locker ini bisa menjadi solusi yang baik untuk keamanan barang.;Positive
+Sistem face detection pada smart locker ini perlu diperbarui untuk meningkatkan kecepatannya.;Neutral
+RFID di smart locker ini memberikan akses yang terorganisir dengan baik.;Positive
 RFID di smart locker ini sering mengalami kesulitan dalam membaca kartu.;Negative
 Sistem pengenalan wajah sering gagal.;Negative
-RFID memerlukan beberapa kali percobaan.;Negative
-Loker sering mengalami error.;Negative
-Proses pengenalan wajah sering gagal.;Negative
-Kartu RFID tidak berfungsi.;Negative
-Loker tidak merespons saat menggunakan RFID.;Negative
-Pengenalan wajah tidak selalu bekerja.;Negative
-Sistem sering tidak merespons kartu RFID.;Negative
-Loker sulit dibuka dengan kartu RFID.;Negative
-Proses verifikasi wajah sering gagal.;Negative
-RFID tidak selalu terbaca.;Negative
-Loker sering tidak merespons.;Negative
-Pengenalan wajah sangat lambat.;Negative
-Kartu RFID sering tidak terbaca.;Negative
-Sistem sering mengalami gangguan.;Negative
+RFID sering berfungsi dengan baik, namun tidak selalu.;Neutral
+Loker ini praktis, tapi kadang face recognition lambat.;Neutral
+Face recognition-nya enggak pernah salah, mantap;Positive
+Lokernya modern dan praktis;Positive
 Smart locker ini kurang dapat diandalkan dalam pengelolaan barang.;Negative
 Sistem face detection pada smart locker ini sering kali tidak responsif.;Negative
-Penggunaan RFID di smart locker ini terkadang tidak konsisten.;Negative
-Smart locker ini memberikan pengalaman yang kurang memuaskan.;Negative
-Face detection di smart locker ini membutuhkan waktu yang lama untuk identifikasi.;Negative
-RFID pada smart locker ini kurang efisien dalam manajemen akses.;Negative
-Smart locker ini tidak memberikan keamanan yang memadai dengan teknologi RFID.;Negative
-Smart locker ini perlu peningkatan dalam pengelolaan akses menggunakan face detection.;Neutral
-Sistem face detection di smart locker ini perlu ditingkatkan dalam pengenalan pengguna.;Neutral
-Penggunaan RFID di smart locker ini terkadang membingungkan dalam akses.;Negative
-Smart locker ini belum memberikan pengalaman yang optimal dengan teknologi face detection.;Neutral
-Face detection di smart locker ini terkadang tidak bisa mengenali wajah dengan baik.;Negative
-Sistem RFID pada smart locker ini masih membutuhkan banyak perbaikan.;Negative
-Penggunaan face detection di smart locker ini tidak terlalu intuitif.;Negative
-Smart locker ini kurang aman dengan penggunaan RFID yang saat ini.;Negative
 Face detection di smart locker ini tidak selalu akurat dalam pengenalan.;Negative
-RFID pada smart locker ini perlu ditingkatkan dalam keamanan akses.;Negative
-Smart locker ini belum memberikan solusi yang efisien dalam pengelolaan barang.;Negative
-Sistem face detection pada smart locker ini perlu peningkatan dalam responsivitas.;Neutral
-Penggunaan RFID di smart locker ini terkadang membutuhkan lebih banyak waktu.;Negative
-Smart locker ini memberikan pengalaman yang agak rumit dalam akses barang.;Neutral
-Face detection di smart locker ini kurang dapat diandalkan dalam kondisi tertentu.;Negative
-RFID pada smart locker ini perlu ditingkatkan kecepatannya dalam membaca kartu.;Negative
-Smart locker ini tidak memberikan keamanan yang memadai dengan teknologi face detection.;Negative
-Face detection di smart locker ini tidak selalu responsif terhadap pengguna.;Negative
-RFID pada smart locker ini sering mengalami masalah dalam manajemen akses.;Negative
 Smart locker ini perlu peningkatan dalam penggunaan face detection untuk keamanan.;Neutral
 Sistem face detection di smart locker ini membutuhkan penyesuaian lebih lanjut.;Neutral
 Penggunaan RFID di smart locker ini terkadang tidak efisien dalam pengelolaan akses.;Negative
 Smart locker ini tidak memberikan pengalaman yang memuaskan dalam akses barang.;Negative
 Keamanan smart locker ini sangat baik dan membuat saya merasa tenang.;Positive
 Pengaturan tata letak smart locker ini sangat efektif dan terstruktur dengan baik.;Positive
+Teknologi face recognition-nya bagus, meski kadang bermasalah.;Neutral
+Loker ini membantu, tapi ada beberapa kali error.;Neutral
+Face recognition sering berfungsi, tapi tidak selalu.;Neutral
 Penggunaan smart locker ini mempermudah proses pengambilan barang sehari-hari.;Positive
 Saya merasa kesulitan dalam menggunakan fitur-fitur dari smart locker ini.;Negative
+RFID-nya responsif, cepat banget;Positive
 Pelayanan pengguna smart locker ini perlu ditingkatkan agar lebih responsif.;Negative
-Aplikasi pendukung dari smart locker ini sulit untuk diakses.;Negative
-Face detection di smart locker ini belum stabil dalam pengenalan wajah.;Negative
-Sistem RFID pada smart locker ini membutuhkan perbaikan dalam keamanan akses.;Negative
-Penggunaan face detection di smart locker ini memerlukan peningkatan dalam responsivitas.;Neutral
-Smart locker ini belum memberikan solusi yang optimal dalam manajemen akses barang.;Negative
-Face detection di smart locker ini terkadang tidak responsif terhadap perintah.;Negative
-Sistem RFID pada smart locker ini belum sempurna dalam manajemen akses.;Negative
-Smart locker ini kurang intuitif dalam penggunaan face detection.;Negative
-Face detection di smart locker ini masih dalam tahap pengembangan yang aktif.;Neutral
-Penggunaan RFID di smart locker ini memerlukan peningkatan dalam integrasi.;Negative
-Smart locker ini belum memberikan keamanan yang optimal dengan teknologi face detection.;Negative
-Sistem RFID pada smart locker ini terkadang tidak stabil dalam membaca kartu.;Negative
-Penggunaan face detection di smart locker ini membutuhkan lebih banyak waktu untuk identifikasi.;Negative
-Smart locker ini belum memberikan solusi yang efektif dalam manajemen akses menggunakan RFID.;Negative
-Face detection di smart locker ini terkadang tidak akurat dalam mengenali wajah.;Negative
-Sistem RFID pada smart locker ini perlu ditingkatkan dalam keamanan akses barang.;Negative
-Penggunaan face detection di smart locker ini tidak intuitif dalam penggunaannya.;Negative
+Sistemnya canggih, tapi masih ada yang perlu diperbaiki.;Neutral
+Sistemnya top, simpel banget;Positive
+Face recognition-nya cepat dan akurat;Positive
+Penggunaan RFID memudahkan akses, walau ada kendala.;Neutral
+Sistemnya sering error, bikin kesel;Negative
+Lokernya suka bermasalah, enggak bisa diandelin;Negative
+Face recognition-nya enggak akurat, sering salah deteksi;Negative
+RFID membuat akses lebih mudah, walaupun kadang bermasalah.;Neutral
+Teknologi cukup canggih, tapi masih ada yang perlu diperbaiki.;Neutral
+Face recognition cukup akurat, meskipun tidak selalu.;Neutral
+Lokernya nyaman banget, recommended;Positive
+RFID-nya super cepat, suka;Positive
+RFID-nya cepat banget, puas deh;Positive
 Smart locker ini memberikan pengalaman yang rumit dalam pengelolaan akses.;Negative
+RFID sering lancar, tapi face recognition perlu waktu.;Neutral
+Sistemnya keren abis, puas pake;Positive
+Face recognition-nya oke banget, recommended;Positive
+Kombinasi teknologi ini menarik, meski ada kendala.;Neutral
 Face detection di smart locker ini belum optimal dalam pengenalan wajah.;Negative
 RFID pada smart locker ini terkadang tidak dapat membaca kartu dengan baik.;Negative
 Sistem face detection di smart locker ini memerlukan lebih banyak integrasi teknologi.;Neutral
 Penggunaan RFID di smart locker ini terkadang membingungkan dalam manajemen akses.;Negative
+Penggunaan face detection di smart locker ini terkadang tidak stabil.;Negative
+Face recognition bekerja dengan baik, meski kadang lambat.;Neutral
+Loker ini mudah digunakan, tapi perlu sedikit perbaikan.;Neutral
+"Face detection membuat penggunaan smart locker sangat praktis.";Positive
+"Smart locker ini sangat cocok untuk digunakan di berbagai tempat umum.";Positive
+"Kombinasi desain modern dan teknologi canggih membuat smart locker ini sangat menarik.";Positive
+Sistemnya cukup baik, tapi ada kendala teknis;Neutral
+"RFID pada smart locker ini sangat responsif dan efisien.";Positive
+"Saya sangat puas dengan fitur keamanan yang disediakan oleh smart locker ini.";Positive
+"Proses akses menggunakan face detection sangat cepat dan tidak repot.";Positive
 Smart locker ini belum memberikan pengalaman yang optimal dalam penggunaan face detection.;Neutral
 Face detection di smart locker ini terkadang tidak akurat dalam kondisi cahaya yang rendah.;Negative
 Sistem RFID pada smart locker ini belum stabil dalam pengelolaan akses.;Negative
 Penggunaan face detection di smart locker ini terkadang mengalami kesulitan dalam pengenalan wajah.;Negative
+Lokernya cukup berguna, tapi enggak sempurna;Neutral
+RFID-nya lumayan cepat, tapi kadang ngelag;Neutral
 Smart locker ini belum memberikan keamanan yang memadai dengan penggunaan RFID.;Negative
+Sistemnya top, gampang pake;Positive
+Face recognition-nya responsif banget, suka;Positive
+Lokernya nyaman dipake, puas deh;Positive
+RFID-nya oke banget, cepat dan akurat;Positive
+Sistemnya cukup simpel, tapi kadang ribet;Neutral
+Face recognition-nya lumayan, tapi bisa lebih cepat;Neutral
+Sistemnya keren, enggak ribet;Positive
 Face detection di smart locker ini membutuhkan peningkatan dalam kecepatan identifikasi.;Negative
 Sistem RFID pada smart locker ini perlu diperbarui untuk meningkatkan keamanan akses.;Negative
 Penggunaan face detection di smart locker ini terkadang tidak responsif.;Negative
+Face recognition lumayan, tapi kadang tidak bekerja.;Neutral
 Smart locker ini belum memberikan solusi yang efisien dalam pengelolaan akses menggunakan face detection.;Negative
 Face detection di smart locker ini membutuhkan waktu yang lama untuk pengenalan wajah.;Negative
 Sistem RFID pada smart locker ini perlu penyesuaian lebih lanjut dalam manajemen akses.;Negative
-Penggunaan face detection di smart locker ini terkadang tidak stabil.;Negative
+"Smart locker ini membuat penyimpanan barang menjadi lebih terorganisir.";Positive
+Lokernya lumayan, kadang suka error;Neutral
+Face recognition-nya cukup oke, tapi masih bisa ditingkatkan;Neutral
+RFID-nya lumayan cepat, tapi kadang suka miss;Neutral
+"Teknologi face detection pada smart locker sangat memudahkan akses tanpa perlu kunci.";Positive
+"RFID membuat proses membuka dan mengunci loker menjadi sangat mudah dan cepat.";Positive
+"Smart locker ini memiliki desain yang sangat elegan dan futuristik.";Positive
+"Dengan face detection, saya tidak perlu khawatir lupa membawa kunci.";Positive
+Loker sulit dibuka dengan kartu RFID.;Negative
+Loker sering tidak merespons.;Negative
+"Keamanan yang ditawarkan oleh RFID pada smart locker ini sangat memuaskan.";Positive
+"Desain smart locker ini sangat stylish dan modern, cocok untuk kantor.";Positive
+RFID sangat praktis, tapi kadang tidak terdeteksi.;Neutral
+Proses verifikasi wajah sering gagal.;Negative
+RFID tidak selalu terbaca.;Negative
+Teknologi ini canggih, tapi kadang membingungkan.;Neutral
+"Nggak terlalu istimewa, tapi face recognition-nya cukup membantu.";Neutral
+"Jelek banget, smart locker ini nggak bisa diandalkan.";Negative
+Smart locker ini kurang baik;Negative
+Smart locker ini sangat baik;Positive
+RFID membuat akses lebih mudah, tapi kadang gagal.;Neutral
+RFID-nya sering gagal, nggak praktis;Negative
+Locker ini sangat praktis dan efisien.;Positive
+Penggunaan RFID di smart locker ini terkadang tidak konsisten.;Negative
+Smart locker ini memberikan pengalaman yang kurang memuaskan.;Negative
+Loker ini praktis, meski kadang ada error.;Neutral
+Smart locker ini baik;Positive
+Smart locker ini sangat membantu di perpustakaan.;Positive
+Face recognition lumayan akurat, tapi ada kalanya gagal.;Neutral
+Teknologinya oke, tapi masih perlu perbaikan.;Neutral
 Smart locker ini tidak memberikan pengalaman yang optimal dengan teknologi RFID.;Negative
 Face detection di smart locker ini perlu ditingkatkan dalam pengenalan wajah.;Negative
 Sistem RFID pada smart locker ini memerlukan lebih banyak peningkatan dalam keamanan akses.;Negative
 Penggunaan face detection di smart locker ini terkadang tidak konsisten.;Negative
-Smart locker ini belum memberikan keamanan yang memuaskan dengan teknologi face detection.;Negative
-Face detection di smart locker ini kurang responsif dalam kondisi tertentu.;Negative
-Sistem RFID pada smart locker ini kurang efektif dalam manajemen akses.;Negative
-Penggunaan face detection di smart locker ini terkadang membingungkan.;Negative
-Smart locker ini belum memberikan pengalaman yang optimal dalam akses barang.;Negative
-Face detection di smart locker ini terkadang tidak akurat dalam pengenalan wajah.;Negative
-Sistem RFID pada smart locker ini perlu ditingkatkan dalam kecepatan akses.;Negative
-Penggunaan face detection di smart locker ini memerlukan lebih banyak waktu untuk pengenalan.;Negative
-Smart locker ini belum memberikan solusi yang efisien dalam manajemen akses menggunakan RFID.;Negative
-Penggunaan teknologi face detection di smart locker ini cukup inovatif.;Positive
 Saya merasa agak ragu dengan kehandalan RFID pada smart locker ini.;Negative
 Smart locker ini memberikan pengalaman pengguna yang biasa saja.;Neutral
 Face detection di smart locker ini memberikan keamanan tambahan yang baik.;Positive
@@ -1059,9 +1608,34 @@ RFID sering tidak bekerja dengan sempurna.;Negative
 Face recognition sering tidak mendeteksi wajah saya dengan tepat.;Negative
 Penggunaan locker ini sangat membantu saya.;Positive
 Locker ini sangat efisien dan aman digunakan.;Positive
+Teknologinya cukup membantu, tapi ada kalanya bermasalah;Neutral
+Face recognition-nya lumayan, kadang meleset;Neutral
+Nggak praktis, malah ribet.;Negative
+Face recognition-nya cukup membantu, tapi ada kalanya lambat;Neutral
+RFID-nya cukup praktis, tapi ada kekurangannya;Neutral
+Face recognition-nya sering gagal;Negative
+Lokernya sangat membantu di perpustakaan;Positive
 Face recognition sangat membantu akses ke locker.;Positive
 Kadang face recognition tidak mendeteksi wajah dengan benar.;Negative
-Locker ini sangat praktis dan efisien.;Positive
+Lokernya nggak jelek, tapi nggak bagus banget juga;Neutral
+Lokernya sangat membantu dan aman;Positive
+Face recognition-nya lumayan cepat, tapi kadang lambat;Neutral
+Lokernya cukup praktis, tapi ada kalanya ribet;Neutral
+Lokernya nggak sesuai ekspektasi;Negative
+Sistem RFID pada smart locker ini masih membutuhkan banyak perbaikan.;Negative
+Penggunaan face detection di smart locker ini tidak terlalu intuitif.;Negative
+Face recognition-nya suka nge-lag, jadi enggak efektif;Negative
+Loker berfungsi dengan baik, meski terkadang ada penundaan.;Neutral
+Face recognition-nya akurat banget, recommended;Positive
+Lokernya praktis, enggak nyusahin;Positive
+RFID-nya keren, cepat banget;Positive
+Smart locker ini perlu peningkatan dalam pengelolaan akses menggunakan face detection.;Neutral
+Sistem face detection di smart locker ini perlu ditingkatkan dalam pengenalan pengguna.;Neutral
+Penggunaan RFID di smart locker ini terkadang membingungkan dalam akses.;Negative
+Smart locker ini belum memberikan pengalaman yang optimal dengan teknologi face detection.;Neutral
+Face detection di smart locker ini terkadang tidak bisa mengenali wajah dengan baik.;Negative
+Penggunaan face recognition sedikit membingungkan pada awalnya.;Neutral
+Smart locker ini kurang aman dengan penggunaan RFID yang saat ini.;Negative
 Teknologi face recognition sangat akurat dan cepat.;Positive
 Penggunaan locker ini sangat membantu dalam penyimpanan barang.;Positive
 Face detection di smart locker ini cukup stabil meskipun dalam situasi yang padat.;Positive
@@ -1072,8 +1646,43 @@ Penggunaan teknologi RFID di smart locker ini membutuhkan peningkatan integrasi.
 Face detection di smart locker ini cukup stabil dalam pengenalan pengguna.;Positive
 RFID pada smart locker ini masih membutuhkan penyesuaian dalam manajemen akses.;Neutral
 Penggunaan RFID di smart locker ini cukup intuitif dalam manajemen akses.;Positive
+Lokernya sering bermasalah;Negative
+Sistemnya cukup baik, ada kelebihan dan kekurangan;Neutral
+Lokernya sangat user-friendly;Positive
+Suka sama fitur RFID-nya yang memudahkan akses;Positive
+RFID-nya kadang lancar kadang nggak terbaca;Neutral
+Proses buka lokernya lama, bikin bete;Negative
+Lokernya kurang kuat, gampang rusak;Negative
+Face recognition-nya lumayan, tapi kadang lambat;Neutral
+Sangat membantu, teknologi yang bagus;Positive
+Lokernya sering error, nggak bisa diandalkan;Negative
+Face recognition-nya akurat banget;Positive
+RFID-nya lumayan, tapi ada kalanya nggak berfungsi;Neutral
+RFID-nya bikin ribet, sering error;Negative
+Teknologi face recognition-nya super!;Positive
+Lokernya cukup oke, tapi masih bisa lebih baik;Neutral
+Fitur face recognition-nya mempermudah banget;Positive
+Face recognition-nya lambat, nggak efisien;Negative
+Lokernya lumayan praktis, nggak terlalu ribet;Neutral
+RFID-nya responsif banget;Positive
+Teknologi keren yang memudahkan;Positive
+RFID-nya selalu cepat baca, praktis banget;Positive
+Sistemnya top banget, enggak ada masalah;Positive
+Teknologi face recognition-nya bagus, tapi kadang kurang responsif.;Neutral
+RFID membantu akses lebih cepat, namun terkadang ada error.;Neutral
+Sering gagal deteksi wajah;Negative
+RFID suka enggak detek;Negative
 Teknologi face detection pada smart locker ini memberikan keamanan tambahan yang diperlukan.;Positive
 Saya merasa frustrasi dengan ketidakakuratan face detection di smart locker ini.;Negative
+Face recognition-nya cepat dan akurat, mantap;Positive
+Sistemnya cukup baik, tapi kadang crash;Neutral
+RFID-nya bekerja sempurna, cepat banget;Positive
+Sistemnya simpel dan efisien, suka deh;Positive
+Lokernya cukup berguna, tapi kadang ribet;Neutral
+Face recognition-nya cukup akurat, tapi kadang salah;Neutral
+Lokernya mudah digunakan, enggak ribet;Positive
+RFID-nya enggak selalu kebaca;Negative
+Face recognition-nya lemot;Negative
 Smart locker ini memberikan pengalaman yang biasa saja dalam penggunaannya.;Neutral
 Face detection di smart locker ini memberikan tingkat keamanan yang tinggi.;Positive
 RFID pada smart locker ini sering mengalami masalah dalam membaca kartu.;Negative
@@ -1086,10 +1695,36 @@ RFID pada smart locker ini masih membutuhkan peningkatan dalam kecepatan akses.;
 Face detection di smart locker ini mudah dipahami dan digunakan.;Positive
 Smart locker ini memberikan solusi yang efisien dalam manajemen akses barang.;Positive
 Face detection di smart locker ini kurang akurat dalam kondisi cahaya rendah.;Negative
+Locker ini sangat aman dan praktis.;Positive
+Loker sering butuh reset ulang setelah beberapa kali penggunaan.;Neutral
+Sistem kadang tidak mengenali kartu RFID.;Neutral
 Sistem RFID pada smart locker ini stabil dalam pengelolaan akses.;Positive
+RFID memerlukan beberapa kali percobaan.;Negative
+Kartu RFID tidak berfungsi.;Negative
+Loker tidak merespons saat menggunakan RFID.;Negative
+RFID-nya lumayan baik, tapi ada beberapa bug;Neutral
+Loker sering mengalami error.;Negative
+Proses pengenalan wajah sering gagal.;Negative
+Sistem sering tidak merespons kartu RFID.;Negative
+RFID-nya super responsif, recommended;Positive
+Lokernya cukup praktis, tapi butuh beberapa perbaikan;Neutral
+Face recognition-nya cepat banget, enggak perlu nunggu lama;Positive
+Lokernya nyaman banget dipake, puas deh;Positive
+Pengenalan wajah tidak selalu bekerja.;Negative
+Sistemnya oke banget, puas pakainya;Positive
+RFID-nya cukup cepat, tapi ada beberapa bug;Neutral
+Sistemnya cukup stabil, tapi kadang crash;Neutral
+Pengenalan wajah sangat lambat.;Negative
+Kartu RFID sering tidak terbaca.;Negative
+Face recognition-nya cukup oke, tapi ada kalanya lambat;Neutral
+Lokernya cukup nyaman, tapi kadang ngadat;Neutral
+Sistem sering mengalami gangguan.;Negative
 Pengalaman menggunakan smart locker ini agak membingungkan.;Neutral
 Face detection di smart locker ini kurang akurat dalam pengenalan wajah.;Negative
 Smart locker ini memberikan pengalaman yang efisien dalam manajemen barang.;Positive
+RFID-nya cukup bagus, tapi kadang error;Neutral
+Face recognition-nya super akurat, enggak pernah salah;Positive
+Lokernya stylish dan modern, suka banget;Positive
 RFID pada smart locker ini sering kali tidak dapat membaca kartu dengan baik.;Negative
 Sistem face detection di smart locker ini terkadang tidak responsif terhadap pengguna.;Negative
 Penggunaan RFID di smart locker ini membutuhkan integrasi yang lebih baik.;Neutral
@@ -1100,6 +1735,10 @@ Sistem face detection di smart locker ini akurat dalam pengenalan pengguna.;Posi
 Pengalaman pengguna dengan smart locker ini cukup memuaskan.;Neutral
 Face detection di smart locker ini stabil meskipun dalam situasi yang padat.;Positive
 RFID pada smart locker ini perlu ditingkatkan dalam manajemen akses.;Negative
+Face recognition-nya oke banget, praktis;Positive
+Face recognition kadang tidak akurat, tapi RFID membantu.;Neutral
+Sistem ini canggih, tapi kadang tidak responsif.;Neutral
+Face recognition sulit berfungsi di kondisi cahaya rendah.;Negative
 Sistem face detection di smart locker ini kurang konsisten dalam pengenalan wajah.;Negative
 Smart locker ini memberikan solusi yang efisien dalam pengelolaan barang.;Positive
 Face detection di smart locker ini belum sepenuhnya dapat diandalkan.;Negative
@@ -1108,12 +1747,17 @@ Face detection di smart locker ini perlu diperbarui untuk meningkatkan akurasi.;
 Penggunaan RFID di smart locker ini intuitif dalam manajemen akses.;Positive
 Face detection di smart locker ini terkadang membingungkan dalam kondisi tertentu.;Negative
 Smart locker ini memberikan pengalaman yang nyaman dalam pengelolaan barang.;Positive
+Saya tidak yakin dengan keamanan RFID untuk jangka panjang.;Neutral
+Locker ini sangat membantu untuk menyimpan barang pribadi.;Positive
+Proses pemindaian RFID memerlukan beberapa kali percobaan.;Neutral
 Penggunaan teknologi RFID di smart locker ini membutuhkan integrasi yang lebih baik.;Negative
 Smart locker ini memberikan pengalaman pengguna yang memuaskan.;Positive
 Face detection di smart locker ini stabil dalam pengenalan pengguna.;Positive
 RFID pada smart locker ini membutuhkan penyesuaian dalam manajemen akses.;Neutral
 Sistem face detection di smart locker ini terkadang tidak responsif terhadap perintah.;Negative
 Smart locker ini memberikan keamanan tambahan yang baik dengan teknologi face detection.;Positive
+Tidak selalu bisa langsung mengenali wajah pengguna.;Neutral
+Verifikasi wajah perlu sedikit waktu untuk penyesuaian.;Neutral
 Face detection di smart locker ini kurang responsif dalam kondisi pencahayaan rendah.;Negative
 RFID pada smart locker ini belum memenuhi kebutuhan untuk keamanan yang tinggi.;Negative
 Sistem face detection di smart locker ini perlu diperbarui untuk performa yang lebih baik.;Neutral
@@ -1128,25 +1772,6 @@ RFID sering mengalami masalah dalam membaca kartu.;Negative
 Saya sangat terbantu dengan adanya smart locker ini.;Positive
 Keamanan face recognition perlu ditingkatkan.;Neutral
 Face recognition sering gagal mendeteksi wajah saya, terutama di kondisi cahaya rendah.;Negative
-Kadang-kadang RFID tidak berfungsi dengan baik.;Negative
-Saya sangat puas dengan teknologi yang digunakan pada locker ini.;Positive
-Face recognition tidak selalu akurat.;Negative
-Sistem ini sangat membantu saya dalam menyimpan barang.;Positive
-Teknologi yang digunakan pada smart locker ini cukup canggih.;Positive
-Face recognition kurang responsif pada kondisi pencahayaan rendah.;Neutral
-Saya merasa lebih aman dengan menggunakan smart locker ini.;Positive
-Teknologi face recognition perlu ditingkatkan akurasinya.;Neutral
-RFID sangat memudahkan akses ke locker.;Positive
-Locker ini sangat praktis dan mudah digunakan.;Positive
-RFID sering tidak terbaca dengan baik.;Negative
-Sistem ini sangat efisien dan berguna.;Positive
-Face recognition sering gagal mendeteksi wajah saya, terutama saat saya memakai masker.;Negative
-Saya merasa keamanan locker ini masih bisa ditingkatkan.;Neutral
-Face recognition sangat akurat dan cepat.;Positive
-RFID sering tidak berfungsi dengan baik.;Negative
-Locker ini sangat membantu di perpustakaan kampus.;Positive
-Face recognition sulit digunakan jika kondisi pencahayaan buruk.;Negative
-RFID pada smart locker ini sangat efisien.;Positive
 Face recognition sering gagal mendeteksi wajah saya.;Negative
 Saya merasa aman menggunakan smart locker ini.;Positive
 RFID sering tidak bekerja dengan baik.;Negative
@@ -1154,209 +1779,185 @@ Locker ini sangat praktis dan memudahkan penyimpanan barang.;Positive
 Face recognition perlu ditingkatkan keakuratannya.;Neutral
 Penggunaan RFID sangat memudahkan akses ke locker.;Positive
 Face recognition sering gagal mengenali wajah saya, terutama saat saya memakai topi.;Negative
-Locker ini sangat aman dan praktis.;Positive
-Saya tidak yakin dengan keamanan RFID untuk jangka panjang.;Neutral
-Locker ini sangat membantu untuk menyimpan barang pribadi.;Positive
-Face recognition sulit berfungsi di kondisi cahaya rendah.;Negative
+Pengenalan wajah memakan waktu lebih lama dari yang diharapkan.;Neutral
+Lokernya bagus banget;Positive
+Face recognition-nya keren abis, enggak perlu kunci lagi;Positive
+RFID bekerja, tapi terkadang memerlukan penyesuaian.;Neutral
+Lokernya enggak praktis, sering ngadat;Negative
+RFID-nya sering enggak nyambung, bikin ribet;Negative
+RFID-nya responsif banget, cepat dan mudah;Positive
+Loker ini lumayan, tapi kadang face recognition lambat.;Neutral
 Akses menggunakan RFID sangat mudah.;Positive
 Kadang-kadang RFID tidak bekerja dengan baik.;Negative
+Teknologi ini menarik, tapi masih ada kekurangan.;Neutral
+RFID-nya mantap banget, responsif;Positive
+Sistem RFID kadang tidak responsif.;Neutral
 Fitur pengenalan wajah terkadang tidak berfungsi dengan baik.;Neutral
-Proses pemindaian RFID memerlukan beberapa kali percobaan.;Neutral
-Loker sering butuh reset ulang setelah beberapa kali penggunaan.;Neutral
-Sistem kadang tidak mengenali kartu RFID.;Neutral
-Pengenalan wajah memakan waktu lebih lama dari yang diharapkan.;Neutral
-RFID bekerja, tapi terkadang memerlukan penyesuaian.;Neutral
-Loker berfungsi dengan baik, meski terkadang ada penundaan.;Neutral
-Penggunaan face recognition sedikit membingungkan pada awalnya.;Neutral
+Lokernya enggak ribet, gampang banget;Positive
+Sistemnya cukup canggih, namun butuh sedikit penyesuaian.;Neutral
+Kadang-kadang RFID tidak berfungsi dengan baik.;Negative
+Saya sangat puas dengan teknologi yang digunakan pada locker ini.;Positive
+Face recognition tidak selalu akurat.;Negative
+RFID sangat memudahkan akses ke locker.;Positive
+Sistemnya keren abis, puas deh;Positive
 Proses verifikasi wajah bisa lebih cepat.;Neutral
 Kadang butuh beberapa kali percobaan untuk membuka loker.;Neutral
-Sistem RFID kadang tidak responsif.;Neutral
-Tidak selalu bisa langsung mengenali wajah pengguna.;Neutral
-Verifikasi wajah perlu sedikit waktu untuk penyesuaian.;Neutral
-Loker sering harus di-reset.;Neutral
-Pemindaian RFID tidak selalu berhasil pada percobaan pertama.;Neutral
-Proses pengenalan wajah kadang-kadang lambat.;Neutral
-RFID membutuhkan posisi yang tepat.;Neutral
-Pengenalan wajah bisa lebih akurat.;Neutral
-Sistem berfungsi baik, tapi terkadang ada masalah kecil.;Neutral
-Pengenalan wajah terkadang memerlukan beberapa percobaan.;Neutral
-RFID tidak selalu dapat membaca kartu dengan cepat.;Neutral
-Terkadang harus mencoba beberapa kali sebelum loker terbuka.;Neutral
-Sistem pengenalan wajah kadang mengalami gangguan.;Neutral
-RFID bekerja tapi membutuhkan waktu yang tepat.;Neutral
-Proses verifikasi wajah bisa sedikit lebih cepat.;Neutral
-Terkadang ada jeda sebelum loker membuka.;Neutral
-RFID membutuhkan beberapa kali percobaan.;Neutral
-Pengenalan wajah tidak selalu langsung berhasil.;Neutral
-Sistem kadang butuh reset setelah beberapa kali penggunaan.;Neutral
-RFID sering memerlukan penyesuaian.;Neutral
-Proses pengenalan wajah bisa lebih singkat.;Neutral
-Loker sering membutuhkan restart.;Neutral
-RFID memerlukan posisi yang tepat.;Neutral
-Pengenalan wajah kadang tidak langsung berhasil.;Neutral
-Sistem berfungsi baik, tetapi kadang ada jeda.;Neutral
-RFID tidak selalu langsung bekerja.;Neutral
-Verifikasi wajah memakan waktu lebih lama dari yang diharapkan.;Neutral
-Sistem pengenalan wajah bisa lebih cepat.;Neutral
-RFID bekerja tapi terkadang tidak responsif.;Neutral
-Terkadang perlu beberapa kali percobaan sebelum berhasil.;Neutral
-Loker sering butuh reset ulang.;Neutral
-Sistem pengenalan wajah kadang lambat.;Neutral
-RFID memerlukan penyesuaian.;Neutral
-"Saya sering mengalami masalah teknis dengan smart locker ini.";Negative
-"Smart locker ini memberikan solusi praktis untuk penyimpanan.";Positive
-"Face recognition di smart locker ini cukup baik.";Neutral
-"Pengalaman menggunakan smart locker ini sangat mengecewakan.";Negative
-"Smart locker ini sangat praktis dan efisien.";Positive
-"Saya merasa tidak puas dengan layanan smart locker ini.";Negative
-"Smart locker ini sangat membantu dalam kehidupan sehari-hari.";Positive
-"Face recognition di smart locker ini sering tidak berfungsi dengan baik.";Negative
-"Saya merasa puas dengan kinerja smart locker ini.";Positive
-Proses pengenalan wajah bisa lebih cepat.;Neutral
-RFID sering tidak responsif.;Neutral
-Verifikasi wajah memerlukan waktu lebih lama dari yang diharapkan.;Neutral
-Sistem pengenalan wajah bisa lebih akurat.;Neutral
-Sistem berfungsi baik, tetapi ada penundaan.;Neutral
-Verifikasi wajah memerlukan waktu lebih lama.;Neutral
-Loker sering butuh restart.;Neutral
-Proses pemindaian RFID tidak selalu langsung berhasil.;Neutral
-Proses verifikasi wajah memakan waktu lebih lama.;Neutral
-Pengenalan wajah kadang-kadang tidak langsung berhasil.;Neutral
-Verifikasi wajah bisa lebih cepat.;Neutral
-Loker sering membutuhkan restart setelah beberapa kali penggunaan.;Neutral
-Verifikasi wajah memerlukan waktu yang lebih lama dari yang diharapkan.;Neutral
-Sistem pengenalan wajah bisa lebih cepat dan akurat.;Neutral
-RFID sering memerlukan beberapa kali percobaan.;Neutral
-Pintu loker tidak bisa terbuka.;Negative
-Loker tidak merespons ketika menggunakan kartu RFID.;Negative
-Pengenalan wajah sering tidak berfungsi.;Negative
-Sistem sering tidak mengenali kartu RFID.;Negative
-Pintu loker sering tidak terbuka.;Negative
-Proses verifikasi wajah sangat lambat.;Negative
-Kartu RFID tidak terbaca.;Negative
-RFID sering tidak berfungsi.;Negative
-Loker tidak terbuka saat menggunakan RFID.;Negative
-Pengenalan wajah sering gagal mengenali.;Negative
-Sistem tidak merespons kartu RFID.;Negative
-Pintu loker sering tidak terbuka dengan RFID.;Negative
-Kartu RFID tidak selalu terbaca.;Negative
-Sistem pengenalan wajah sering tidak akurat.;Negative
-RFID sering memerlukan beberapa kali percobaan.;Negative
-Kadang harus dicoba beberapa kali untuk berhasil.;Neutral
-RFID-nya cukup baik, tapi tidak selalu responsif.;Neutral
-Sistem pengenalan wajahnya kadang lambat.;Neutral
-Lumayan, meskipun ada sedikit kendala.;Neutral
-Pengenalan wajahnya oke, tapi bisa lebih akurat.;Neutral
-Proses verifikasinya cukup baik, tapi lambat.;Neutral
-Locker ini lumayan, meski tidak selalu bekerja dengan baik.;Neutral
-Prosesnya lambat, tapi berhasil.;Neutral
-Lumayan, meskipun ada sedikit jeda.;Neutral
-Pengenalan wajahnya cukup akurat, tapi lambat.;Neutral
-Proses verifikasinya oke, tapi lambat.;Neutral
-Lumayan, meski kadang lambat.;Neutral
-RFID-nya cukup baik, tapi sering memerlukan beberapa kali percobaan.;Neutral
-Locker ini lumayan, meskipun ada masalah kecil.;Neutral
-Sistem pengenalan wajahnya cukup baik, tapi lambat.;Neutral
-Prosesnya oke, tapi kadang lambat.;Neutral
-Locker ini cukup baik, meski tidak selalu bekerja dengan baik.;Neutral
-Loker ini nggak reliable, sering error.;Negative
-Pengenalan wajahnya suka error, bikin repot.;Negative
-RFID sering nggak kebaca, males.;Negative
-Sistem verifikasinya lambat, bikin bete.;Negative
-Loker ini sering macet, nggak praktis.;Negative
-Pengenalan wajahnya sering nggak akurat, bikin ribet.;Negative
-Loker ini banyak masalahnya, nggak reliable.;Negative
-Sistemnya lambat, kesel banget.;Negative
-Pintu loker sering macet, ribet banget.;Negative
-RFID-nya sering nggak respon, nggak nyaman.;Negative
-Pengenalan wajahnya suka salah, bikin kesel.;Negative
-Loker ini nggak reliable, sering macet.;Negative
-Sistem verifikasinya sering lama, bikin repot.;Negative
-RFID-nya nggak akurat, bikin ribet.;Negative
-Proses verifikasinya lama banget, bikin bete.;Negative
-Pintu loker nggak mau kebuka, ngeselin banget.;Negative
-Pengenalan wajahnya suka error, ribet deh.;Negative
-RFID sering nggak kebaca, capek.;Negative
-Sistem verifikasinya lambat, bikin kesel.;Negative
-Loker ini sering macet, nggak reliable.;Negative
-Pengenalan wajahnya sering nggak akurat, bikin repot.;Negative
-RFID suka nggak respon, bikin ribet.;Negative
-Sistemnya lambat, ribet.;Negative
-Pintu loker sering macet, bikin bete.;Negative
-RFID-nya sering nggak respon, males banget.;Negative
-RFID-nya nggak akurat, kesel banget.;Negative
-Proses verifikasinya lama banget, bikin ribet.;Negative
-Pintu loker nggak mau kebuka, bikin repot.;Negative
-Pengenalan wajahnya suka error, nggak praktis.;Negative
-Pintu loker kadang susah dibuka, tapi nggak sering.;Neutral
-RFID-nya cukup baik, meski kadang nggak kebaca.;Neutral
-Loker ini lumayan, nggak selalu lancar.;Neutral
-Sistem verifikasinya cukup cepat, meski kadang lambat.;Neutral
-RFID-nya kadang nggak kebaca, tapi masih oke.;Neutral
-Verifikasi wajahnya cukup baik, tapi ada delay.;Neutral
-RFID sering error, bikin kesel.;Negative
-Loker tidak bagus, suka nggak mau buka, frustrasi.;Negative
-Proses buka loker tidak bagus, ribet, nggak efisien.;Negative
-Sistem RFID sering gagal, sangat mengecewakan.;Negative
-Deteksi wajah sering gagal, sangat mengganggu.;Negative
-Pengalaman buruk dengan loker tidak bagus ini, sering error.;Negative
-Pintu loker kadang susah dibuka, tapi nggak sering.;Neutral
-RFID-nya cukup baik, meski kadang nggak kebaca.;Neutral
-Loker ini lumayan, nggak selalu lancar.;Neutral
-Sistem verifikasinya cukup cepat, meski kadang lambat.;Neutral
-RFID-nya kadang nggak kebaca, tapi masih oke.;Neutral
-Verifikasi wajahnya cukup baik, tapi ada delay.;Neutral
-Loker ini cukup praktis, tapi masih ada kekurangan.;Neutral
-Deteksi wajah kadang lambat, tapi bisa diterima.;Neutral
-Sistem cukup efisien, meski ada kendala kecil.;Neutral
-Loker ini cukup berguna, meski ada beberapa masalah.;Neutral
-Pengenalan wajahnya sangat cepat dan akurat, bagus banget.;Positive
-Sistem ini sangat efisien, sangat membantu.;Positive
-RFID-nya selalu bekerja dengan baik, sangat puas.;Positive
-Pengalaman menggunakan smart locker ini sangat memuaskan.;Positive
-Keamanan yang ditawarkan sangat baik, sangat direkomendasikan.;Positive
-Smart locker ini sangat praktis dan mudah digunakan.;Positive
-Sistem face detection sangat akurat, sangat membantu.;Positive
-RFID bekerja sempurna, sangat memuaskan.;Positive
-Deteksi wajah sangat cepat dan akurat, sangat puas.;Positive
-RFID-nya sering tidak merespon, males banget.;Negative
-Pintu loker tidak mau kebuka, bikin repot.;Negative
-Pengenalan wajahnya suka error, tidak praktis.;Negative
-Loker suka nggak mau buka, frustrasi.;Negative
-Proses buka loker ribet, nggak efisien.;Negative
-Pengalaman buruk dengan loker ini, sering error.;Negative
-Loker sering bermasalah, tidak puas sama sekali.;Negative
-Sistem ini sering error, sangat mengganggu.;Negative
-Loker sering tidak bisa dibuka, sangat tidak praktis.;Negative
-RFID tidak terdeteksi, sangat mengganggu.;Negative
-Smart locker ini sangat efisien, benar-benar membantu.;Positive
-Sistem sering crash, sangat mengganggu.;Negative
-Pintu loker kadang tidak terbuka, sangat merepotkan.;Negative
-Deteksi wajah sangat lambat, sangat tidak efisien.;Negative
-Loker ini lumayan, meski ada beberapa kekurangan.;Neutral
-Sistem verifikasi cukup akurat, tapi kadang lambat.;Neutral
-Penggunaan loker cukup praktis, meski ada beberapa kendala.;Neutral
-RFID bekerja baik, tapi kadang tidak terdeteksi.;Neutral
-Deteksi wajah lumayan cepat, tapi masih ada delay.;Neutral
-Sistem ini cukup efisien, meski ada beberapa masalah.;Neutral
-Loker cukup praktis, meski kadang susah dibuka.;Neutral
-Keamanan yang diberikan cukup baik, meski ada beberapa kendala.;Neutral
-Sistem deteksi wajah cukup akurat, meski kadang lambat.;Neutral
-Sistem ini sangat membantu, sangat direkomendasikan.;Positive
-Pengalaman menggunakan loker ini sangat memuaskan.;Positive
-RFID selalu bekerja dengan baik, sangat membantu.;Positive
-Penggunaan loker ini sangat praktis dan mudah.;Positive
-RFID bekerja dengan baik, sangat puas.;Positive
-Sistem ini sangat akurat, sangat membantu.;Positive
-RFID sering error, sangat mengecewakan.;Negative
-Loker sering bermasalah, sangat tidak praktis.;Negative
-Pintu loker sering tidak terbuka, sangat merepotkan.;Negative
-Loker ini cukup lumayan, meski ada beberapa kekurangan.;Neutral
-RFID bekerja cukup baik, tapi kadang tidak terdeteksi.;Neutral
-Deteksi wajah cukup cepat, tapi masih ada delay.;Neutral
-RFID sering tidak respon, sangat mengganggu.;Negative
-Sistem sering tidak berfungsi, sangat mengecewakan.;Negative
-Deteksi wajah sering tidak akurat, sangat tidak membantu.;Negative
-Proses verifikasi sangat lambat, sangat tidak efisien.;Negative
-RFID sering tidak terdeteksi, sangat mengganggu.;Negative
-Loker ini cukup praktis, meski ada beberapa kendala.;Neutral
+Face recognition-nya suka ngadat;Negative
+Locker ini sangat praktis dan mudah digunakan.;Positive
+RFID sering tidak terbaca dengan baik.;Negative
+Sistemnya cukup user-friendly, tapi kadang ribet;Neutral
+RFID-nya sering ngadat;Negative
+Sistemnya suka down;Negative
+Sistem ini sangat efisien dan berguna.;Positive
+Face recognition-nya cukup akurat, tapi kadang ngaco;Neutral
+Lokernya cukup praktis, tapi kadang ngestuck;Neutral
+Lokernya enggak jelek;Positive
+Lokernya enggak buruk;Positive
+RFID sering gagal;Negative
+Face recognition sering gagal mendeteksi wajah saya, terutama saat saya memakai masker.;Negative
+Lokernya enggak ribet;Positive
+Face recognition-nya suka ngestuck;Negative
+Saya merasa keamanan locker ini masih bisa ditingkatkan.;Neutral
+Face recognition sangat akurat dan cepat.;Positive
+RFID sering tidak berfungsi dengan baik.;Negative
+Locker ini sangat membantu di perpustakaan kampus.;Positive
+Face recognition sulit digunakan jika kondisi pencahayaan buruk.;Negative
+RFID pada smart locker ini sangat efisien.;Positive
+Sistemnya cukup simpel, tapi bisa lebih baik;Neutral
+Lokernya modern dan canggih, recommended!;Positive
+Face recognition-nya cukup cepat, tapi kadang error;Neutral
+Teknologi face recognition-nya keren abis!;Positive
+RFID-nya nggak sensitif.;Negative
+Sistem RFID-nya top!;Positive
+Aman dan mudah dipakai, recommended!;Positive
+RFID-nya lumayan praktis, tapi kadang error;Neutral
+Aman dan nyaman pakai lokernya;Positive
+Lokernya nggak praktis, bikin repot;Negative
+RFID-nya cukup baik, tapi ada kalanya nggak terbaca;Neutral
+Lokernya desainnya futuristik, suka banget;Positive
+Face recognition-nya bikin repot, lambat;Negative
+Lokernya solid dan aman;Positive
+Face recognition-nya suka ngaco.;Negative
+Sistemnya cukup baik, tapi ada kalanya bermasalah;Neutral
+Lokernya oke banget, nggak ribet pakainya;Positive
+Lokernya kurang aman, nggak recommended;Negative
+Sistemnya cukup baik, tapi kadang ada masalah;Neutral
+Lokernya praktis banget buat sehari-hari;Positive
+Teknologi face recognition-nya sangat memuaskan;Positive
+RFID-nya suka nggak terbaca;Negative
+Lokernya enggak buruk, tapi kadang ribet;Neutral
+RFID-nya cukup responsif, tapi kadang lambat;Neutral
+Nggak nyaman buat penyimpanan.;Negative
+Lokernya nggak aman, masih bisa dibuka paksa;Negative
+RFID-nya sering nggak berfungsi;Negative
+Lokernya keren, teknologi mantap;Positive
+Teknologi keren, sangat membantu di perpustakaan;Positive
+RFID-nya cukup praktis, tapi ada kalanya error;Neutral
+Kurang puas sama fitur face recognition-nya;Negative
+Lokernya kurang aman, masih bisa dibuka paksa;Negative
+Face recognition-nya sering nggak akurat;Negative
+Teknologinya cukup membantu, tapi ada kekurangannya;Neutral
+Sistem face recognition-nya cepat dan akurat;Positive
+Bikin hidup lebih susah.;Negative
+Lokernya cukup praktis, tapi ada kekurangannya;Neutral
+RFID-nya suka nggak terbaca, repot;Negative
+Proses buka lokernya cepat, mantap!;Positive
+Face recognition-nya lumayan baik, tapi kadang meleset;Neutral
+Face recognition-nya cepat dan tepat;Positive
+Lokernya cukup oke, nggak jelek tapi nggak spesial;Neutral
+Lokernya nggak efisien.;Negative
+Fitur RFID-nya bikin akses lebih cepat;Positive
+RFID-nya nggak praktis, sering gagal;Negative
+Lokernya terlalu kecil, nggak muat banyak barang;Negative
+Fitur RFID-nya bikin akses lebih gampang;Positive
+Lokernya kece dan canggih;Positive
+Lokernya biasa aja.;Neutral
+Lokernya stylish dan fungsional;Positive
+Susah dioperasikan.;Negative
+Desainnya standar aja.;Neutral
+Teknologinya nggak membantu.;Negative
+Sangat praktis dan aman, puas pakainya;Positive
+Lokernya terlalu kecil, nggak muat banyak;Negative
+Face recognition-nya cukup cepat, tapi kadang lambat;Neutral
+Lokernya kuat dan aman banget;Positive
+Face recognition-nya bikin lama buka loker;Negative
+Lokernya kekinian banget, suka deh;Positive
+Sistemnya cukup baik, tapi ada kalanya down;Neutral
+Ribet banget di perpustakaan.;Negative
+Lokernya mudah diakses dan aman;Positive
+Sistemnya sering down, nggak bisa diandalkan;Negative
+Lokernya oke, tapi masih perlu perbaikan;Neutral
+Aksesnya susah banget.;Negative
+Sistem RFID-nya responsif;Positive
+RFID-nya lumayan, kadang responsif kadang nggak;Neutral
+Ribet buat sehari-hari.;Negative
+Sistemnya nggak reliable.;Negative
+Teknologinya cukup baik, tapi ada yang bisa ditingkatkan;Neutral
+RFID-nya sering error, bikin ribet;Negative
+Lokernya lumayan aman, tapi bisa lebih baik;Neutral
+Face detection di smart locker ini membutuhkan waktu yang lama untuk identifikasi.;Negative
+RFID pada smart locker ini kurang efisien dalam manajemen akses.;Negative
+Smart locker ini tidak memberikan keamanan yang memadai dengan teknologi RFID.;Negative
+RFID-nya top banget, cepat;Positive
+Sistemnya canggih, puas pake;Positive
+Face recognition-nya cukup baik, tapi kadang error;Neutral
+Sangat memudahkan kehidupan sehari-hari;Positive
+Lokernya sangat modern dan stylish;Positive
+Face recognition-nya cukup membantu, tapi ada kekurangannya;Neutral
+Sistem face recognition-nya kadang cepat kadang lambat;Neutral
+RFID-nya sering nggak responsif;Negative
+Lokernya mudah diakses, sangat user-friendly;Positive
+Teknologinya cukup baik, tapi ada kekurangannya;Neutral
+Lokernya worth it banget, kualitas oke;Positive
+Face recognition-nya bikin lama;Negative
+Face recognition-nya cukup baik, kadang meleset;Neutral
+RFID-nya bikin pusing, suka error;Negative
+Lokernya desainnya biasa aja, nggak menarik;Negative
+Sistem RFID-nya lancar dan cepat;Positive
+Lokernya oke, tapi masih bisa ditingkatkan;Neutral
+Face recognition-nya top banget!;Positive
+Lokernya sering error, bikin kesel;Negative
+Teknologinya lumayan, bisa dipakai;Neutral
+Lokernya praktis dan aman;Positive
+RFID-nya kadang bekerja kadang nggak;Neutral
+Teknologi yang sangat bermanfaat;Positive
+Teknologinya oke, tapi ada yang bisa ditingkatkan;Neutral
+Teknologi face recognition-nya juara!;Positive
+RFID-nya lumayan, tapi kadang nggak responsif;Neutral
+Lokernya sering macet, nggak praktis;Negative
+Kurang puas sama teknologi face recognition-nya;Negative
+RFID-nya cukup berguna, tapi ada kalanya bermasalah;Neutral
+RFID-nya cepat dan mudah dipakai;Positive
+Lokernya cukup praktis, tapi ada kalanya bermasalah;Neutral
+Lokernya modern dan sangat membantu;Positive
+Face recognition-nya bikin kesel;Negative
+Lokernya bener-bener praktis, suka deh;Positive
+Face recognition-nya kadang oke kadang nggak;Neutral
+RFID-nya cukup berguna, tapi ada kalanya nggak berfungsi;Neutral
+Sistemnya lumayan, kadang error;Neutral
+Suka sama sistem face recognition-nya;Positive
+Sistemnya cukup baik, kadang ada error;Neutral
+Lokernya terlalu ribet pakainya;Negative
+Lokernya lumayan, nggak jelek tapi nggak terlalu bagus;Neutral
+Face recognition-nya bikin repot;Negative
+Face recognition-nya super cepat;Positive
+RFID-nya sering nggak berfungsi, repot;Negative
+Lokernya cukup aman, tapi bisa lebih baik;Neutral
+RFID-nya praktis dan mudah dipakai;Positive
+Teknologi yang sangat membantu sehari-hari;Positive
+Lokernya sering ngadat, kesel banget.;Negative
+Teknologinya belum matang.;Negative
+Lokernya biasa aja, nggak terlalu spesial;Neutral
+RFID-nya suka nggak terbaca, ribet;Negative
+Sistem face recognition-nya enggak jelek;Positive
+Face recognition-nya enggak bagus;Negative
+Face recognition-nya enggak jelek dan enggak bagus;Neutral
+Desain lokernya enggak jelek;Positive
+Desain lokernya enggak bagus;Negative
+Desain lokernya enggak jelek dan enggak bagus;Neutral
+Kinerja face recognition-nya enggak jelek;Positive
+Kinerja face recognition-nya enggak bagus;Negative
+Kinerja face recognition-nya enggak jelek dan enggak bagus;Neutral
+Efisiensi lokernya enggak jelek;Positive
+Efisiensi lokernya enggak bagus;Negative
+Efisiensi lokernya enggak jelek dan enggak bagus;Neutral
