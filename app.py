@@ -39,6 +39,7 @@ def normalize_text(text, normalization_dict):
 
 # Stopword Removal
 stop_words = set(stopwords.words('indonesian'))
+stop_words.discard("tidak")
 def remove_stopwords(text):
     return [word for word in text if word not in stop_words]
 
