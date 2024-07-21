@@ -4,6 +4,4 @@ Flask==3.0.3
 nltk==3.8.1
 Sastrawi==1.0.1
 pyzbar==0.1.9
-pyproject-toml==0.0.10
-ta-lib==0.4.32
 opencv-python-headless==4.10.0.84
