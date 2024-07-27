@@ -3,11 +3,9 @@ import joblib
 import nltk
 import re
 import json
-import cv2
 from flask import Flask, request, jsonify
 from nltk.tokenize import word_tokenize
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
-from pyzbar.pyzbar import decode
 
 nltk.download('stopwords')
 nltk.download('punkt')
@@ -84,25 +82,6 @@ def predict_sentiment():
     
     # Return the prediction as a JSON response
     return jsonify({'sentiment': prediction[0]})
-
-# Route QR Code Recognition
-@app.route('/qr_recognition', methods=['POST'])
-def recognize_qr():
-    # Capture QR code from the request
-    file = request.files['image']
-    file.save('uploaded_qr.png')
-    
-    # Read the image
-    img = cv2.imread('uploaded_qr.png')
-    
-    # Decode the QR code
-    decoded_objects = decode(img)
-    
-    # Extract the data
-    qr_data = [obj.data.decode('utf-8') for obj in decoded_objects]
-    
-    # Return the data as a JSON response
-    return jsonify({'qr_data': qr_data})
 
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 8000))
